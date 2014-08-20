@@ -10,7 +10,7 @@
 #    
 #! PASSWORD=""
 #! ATTR_TYPE_ENCODING="SDF"
-#! VIEW_POSITION="-39 15"
+#! VIEW_POSITION="-42 15"
 #! SHOW_INFO_NODES="true"
 #! FME_STROKE_MAX_DEVIATION="0"
 #! BEGIN_PYTHON=""
@@ -28,13 +28,13 @@
 #! USAGE=""
 #! END_PYTHON=""
 #! HISTORY=""
-#! FME_DOCUMENT_PRIORGUID="6095792c-fbec-11e3-962e-ff05ddde1c1d,c095c9bc-fbec-11e3-962e-ff05ddde1c1d"
+#! FME_DOCUMENT_PRIORGUID="6095792c-fbec-11e3-962e-ff05ddde1c1d,c095c9bc-fbec-11e3-962e-ff05ddde1c1d,fe7069ce-fbef-11e3-962e-ff05ddde1c1d,26cd1078-0944-11e4-8a74-a138ab286124"
 #! DOC_TOP_LEFT="292 -530"
 #! REQUIREMENTS_KEYWORD=""
 #! SOURCE_ROUTING_FILE=""
 #! DESTINATION_ROUTING_FILE=""
 #! DESTINATION="NONE"
-#! LAST_SAVE_DATE="2014-06-24T15:36:33"
+#! LAST_SAVE_DATE="2014-07-11T14:42:14"
 #! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Datum"
 #! WORKSPACE_VERSION="1"
 #! SOURCE="NONE"
@@ -45,7 +45,7 @@
 #! REQUIREMENTS=""
 #! BEGIN_TCL=""
 #! DOC_EXTENTS="3098 409"
-#! FME_DOCUMENT_GUID="fe7069ce-fbef-11e3-962e-ff05ddde1c1d"
+#! FME_DOCUMENT_GUID="38a384c6-0944-11e4-8a74-a138ab286124"
 #! SHOW_ANNOTATIONS="true"
 #! IGNORE_READER_FAILURE="No"
 #! WARN_INVALID_XFORM_PARAM="Yes"
@@ -547,35 +547,6 @@
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
 #! <FEATURE_TYPE
-#! IS_SOURCE="true"
-#! NODE_NAME="PhotoOnMapFutureSubscriptions"
-#! IS_EDITABLE="false"
-#! IDENTIFIER="24"
-#! FEAT_GEOMTYPE="googlefusiontables_no_geom googlefusiontables_point googlefusiontables_line googlefusiontables_polygon googlefusiontables_collection"
-#! POSITION="292 -350"
-#! ORDER="5e+14"
-#! COLLAPSED="true"
-#! KEYWORD="GOOGLEFUSIONTABLES_1"
-#! ENABLED="true"
-#! HIDDEN_USER_ATTRS=""
-#! MERGE="false"
-#! MERGE_FILTER=""
-#! MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
-#! MERGE_FILTER_CASE_SENSITIVE="false"
-#! DYNAMIC_SCHEMA="false"
-#! >
-#! <FEAT_ATTRIBUTE ATTR_NAME="geom" ATTR_TYPE="location" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="email" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="enddate" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="request_id" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="request_time" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="startdate" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="twitter" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <FEAT_ATTRIBUTE ATTR_NAME="query_type" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#! <DEFLINE_PARM PARM_NAME="googlefusiontables_sql_where_clause" PARM_VALUE=""/>
-#! <DEFLINE_PARM PARM_NAME="googlefusiontables_sql_statement" PARM_VALUE=""/>
-#! </FEATURE_TYPE>
-#! <FEATURE_TYPE
 #! IS_SOURCE="false"
 #! NODE_NAME="PhotoOnMapFutureSubscriptions"
 #! IS_EDITABLE="true"
@@ -630,6 +601,35 @@
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_update_key_columns" PARM_VALUE=""/>
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_geometry_columns" PARM_VALUE="geom"/>
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#! </FEATURE_TYPE>
+#! <FEATURE_TYPE
+#! IS_SOURCE="true"
+#! NODE_NAME="PhotoOnMapFutureSubscriptions"
+#! IS_EDITABLE="false"
+#! IDENTIFIER="24"
+#! FEAT_GEOMTYPE="googlefusiontables_no_geom googlefusiontables_point googlefusiontables_line googlefusiontables_polygon googlefusiontables_collection"
+#! POSITION="292 -350"
+#! ORDER="5e+14"
+#! COLLAPSED="true"
+#! KEYWORD="GOOGLEFUSIONTABLES_1"
+#! ENABLED="true"
+#! HIDDEN_USER_ATTRS=""
+#! MERGE="false"
+#! MERGE_FILTER=""
+#! MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#! MERGE_FILTER_CASE_SENSITIVE="false"
+#! DYNAMIC_SCHEMA="false"
+#! >
+#! <FEAT_ATTRIBUTE ATTR_NAME="geom" ATTR_TYPE="location" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="email" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="enddate" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="request_id" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="request_time" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="startdate" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="twitter" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <FEAT_ATTRIBUTE ATTR_NAME="query_type" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#! <DEFLINE_PARM PARM_NAME="googlefusiontables_sql_where_clause" PARM_VALUE=""/>
+#! <DEFLINE_PARM PARM_NAME="googlefusiontables_sql_statement" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
@@ -690,7 +690,7 @@
 #! BOTTOM_RIGHT="2658 -603"
 #! STICKY="true"
 #! COLOUR="0.666667,0.894118,0.482353"
-#! CONTENTS="18 2 27 5 4 "
+#! CONTENTS="2 27 5 18 4 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -801,15 +801,6 @@
 #! EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#! IDENTIFIER="26"
-#! SOURCE_NODE="24"
-#! TARGET_NODE="18"
-#! SOURCE_PORT_DESC="-1"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
 #! IDENTIFIER="23"
 #! SOURCE_NODE="5"
 #! TARGET_NODE="15"
@@ -824,6 +815,15 @@
 #! TARGET_NODE="17"
 #! SOURCE_PORT_DESC="fo 0"
 #! TARGET_PORT_DESC="-1"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="26"
+#! SOURCE_NODE="24"
+#! TARGET_NODE="18"
+#! SOURCE_PORT_DESC="-1"
+#! TARGET_PORT_DESC="fi 0"
 #! ENABLED="true"
 #! EXTRA_POINTS=""
 #! />
@@ -1007,10 +1007,10 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter SubsciptionIsActive Splitter
 FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter <lt>UNFILTERED<gt> Output Nuker"   INPUT FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "TestFilter_SubsciptionIsActive_1_7mfM9sKsh/w= -> PhotoOnMapActiveSubscriptions Correlator"    INPUT FEATURE_TYPE TestFilter_SubsciptionIsActive_1_7mfM9sKsh/w=    OUTPUT FEATURE_TYPE __GO_TO_FINAL_OUTPUT_ROUTER__       multi_writer_id 0       @Transform(FME_GENERIC,GOOGLEFUSIONTABLES)       @SupplyAttributes(ENCODED,__wb_out_feat_type__,PhotoOnMapActiveSubscriptions)
+FACTORY_DEF * TeeFactory    FACTORY_NAME "TestFilter_SubsciptionIsActive_0_7mfM9sKsh/w= -> PhotoOnMapActiveSubscriptions Correlator"    INPUT FEATURE_TYPE TestFilter_SubsciptionIsActive_0_7mfM9sKsh/w=    OUTPUT FEATURE_TYPE __GO_TO_FINAL_OUTPUT_ROUTER__       multi_writer_id 0       @Transform(FME_GENERIC,GOOGLEFUSIONTABLES)       @SupplyAttributes(ENCODED,__wb_out_feat_type__,PhotoOnMapActiveSubscriptions)
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "TestFilter_SubsciptionIsActive_0_7mfM9sKsh/w= -> PhotoOnMapFutureSubscriptions Correlator"    INPUT FEATURE_TYPE TestFilter_SubsciptionIsActive_0_7mfM9sKsh/w=    OUTPUT FEATURE_TYPE __GO_TO_FINAL_OUTPUT_ROUTER__       multi_writer_id 0       @Transform(FME_GENERIC,GOOGLEFUSIONTABLES)       @SupplyAttributes(ENCODED,__wb_out_feat_type__,PhotoOnMapFutureSubscriptions)
+FACTORY_DEF * TeeFactory    FACTORY_NAME "TestFilter_SubsciptionIsActive_1_7mfM9sKsh/w= -> PhotoOnMapFutureSubscriptions Correlator"    INPUT FEATURE_TYPE TestFilter_SubsciptionIsActive_1_7mfM9sKsh/w=    OUTPUT FEATURE_TYPE __GO_TO_FINAL_OUTPUT_ROUTER__       multi_writer_id 0       @Transform(FME_GENERIC,GOOGLEFUSIONTABLES)       @SupplyAttributes(ENCODED,__wb_out_feat_type__,PhotoOnMapFutureSubscriptions)
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TestFactory   FACTORY_NAME "Final Output Feature Type Router"   INPUT FEATURE_TYPE *   TEST @Value(__wb_out_feat_type__) != ""   OUTPUT PASSED FEATURE_TYPE *     @FeatureType(@Value(__wb_out_feat_type__))   OUTPUT FAILED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
