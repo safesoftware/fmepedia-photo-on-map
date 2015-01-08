@@ -1,9 +1,7 @@
 
 /* The Google Maps Object */
 
-var fmeserverurl = "fmepedia2014-safe-software.fmecloud.com";
-
-var token = "8be243c0fc2f5f34977050bdab57ebbdd3e72aa2";
+var fmeserverurl, token;
 
 var map;
 
@@ -22,6 +20,15 @@ var bufferShape = null;
 /**
  * Called when the page first loads
  */
+function loadConfig() {
+	$.getJSON("http://demos.fmeserver.com.s3.amazonaws.com/server-demo-config.json", function(config) {
+		fmeserverurl = config.initObject.server;
+		token = config.initObject.token;
+		initialize();
+	});
+}
+ 
+ 
  function initialize() {
 
   /* Start - JQuery Toole Form Setup */
@@ -137,7 +144,7 @@ var bufferShape = null;
     $('#mapWarningModal').modal();
 
   } else {
-    var url = "https://" + fmeserverurl + "/fmerest/v2/notifications/topics/photo_map_web_subscribe/message/raw?token=" + token;
+    var url = fmeserverurl + "/fmerest/v2/notifications/topics/photo_map_web_subscribe/message/raw?token=" + token;
     /* Create the JSON object */
     var jsonObj = { };
     jsonObj["wkt"] = generateWktStr();
@@ -202,4 +209,4 @@ var bufferShape = null;
   return wktStr;
  }
 
-google.maps.event.addDomListener(window, 'load', initialize);
+google.maps.event.addDomListener(window, 'load', loadConfig);
