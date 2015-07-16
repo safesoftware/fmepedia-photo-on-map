@@ -5,54 +5,54 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    C:\Apps\FME_15221\fme.exe C:\safegit\fmepedia-photo-on-map\fme\3_report_photo.fmw
-#          --SourceDataset_TEXTLINE C:\safegit\fmepedia-photo-on-map\fme\photo-incoming.txt
+#    C:\Apps\FME_15251\fme.exe C:\safegit\fmepedia-photo-on-map\fme\3_report_photo.fmw
+#          --SourceDataset_TEXTLINE "C:\safegit\fmepedia-photo-on-map\fme\photo-incoming.txt"
 #    
 #    
-#! FME_REPROJECTION_ENGINE="FME"
-#! REQUIREMENTS=""
-#! LOG_FILE=""
-#! ATTR_TYPE_ENCODING="SDF"
-#! DOC_EXTENTS="5711 2853"
 #! MAX_LOG_FEATURES="200"
-#! TITLE=""
-#! FME_BUILD_NUM="15221"
-#! SHOW_INFO_NODES="true"
-#! LOG_MAX_PRECISION="Yes"
-#! SHOW_ANNOTATIONS="true"
-#! LAST_SAVE_DATE="2014-12-12T11:07:24"
-#! WORKSPACE_VERSION="1"
-#! BEGIN_PYTHON=""
-#! BEGIN_TCL=""
-#! IGNORE_READER_FAILURE="No"
-#! SOURCE="NONE"
-#! VIEW_POSITION="942.009 -1251.01"
-#! END_PYTHON=""
-#! LOG_MAX_RECORDED_FEATURES="200"
 #! FME_SERVER_SERVICES=""
-#! DOC_TOP_LEFT="942 -3401"
-#! PASSWORD=""
+#! FME_BUILD_NUM="15251"
+#! DESTINATION_ROUTING_FILE=""
 #! ZOOM_SCALE="100"
-#! HISTORY=""
-#! CATEGORY=""
-#! STRICT_PARAMETER_VALIDATION="false"
-#! LAST_SAVE_BUILD="FME(R) 2015 (20141127 - Build 15221 - WIN64)"
-#! LEGAL_TERMS_CONDITIONS=""
-#! DESTINATION="NONE"
-#! USAGE=""
-#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Datum"
+#! DOC_EXTENTS="5711 2853"
+#! DOC_TOP_LEFT="942 -3401"
+#! SHOW_ANNOTATIONS="true"
 #! SOURCE_ROUTING_FILE=""
-#! DESCRIPTION=""
-#! FME_DOCUMENT_PRIORGUID="aed883d6-f8b3-11e3-8e67-d0b0296178cb,816a4cb4-f8b7-11e3-8e67-d0b0296178cb,30c0efde-f8c6-11e3-84e4-a36bf1b55e4e,7bf59054-f8cb-11e3-84e4-a36bf1b55e4e,40c74756-f8d1-11e3-84e4-a36bf1b55e4e,9248f56c-f8e4-11e3-8d63-fc1267f04b78,466c1eca-f8ea-11e3-9d32-a24eeb6b9ae7,d63ceabe-fbe9-11e3-8011-db0cc0abd5f4,2c27adb6-fc93-11e3-962e-ff05ddde1c1d,fe456cae-fc96-11e3-962e-ff05ddde1c1d,940033dc-fe2c-11e3-8608-fcf1c10c0ece,83f8e5da-2896-11e4-8568-a7502f462c21,dfa4710a-e75b-4c69-afca-de65e06dda0e"
-#! FME_STROKE_MAX_DEVIATION="0"
+#! LOG_MAX_RECORDED_FEATURES="200"
+#! VIEW_POSITION="2607.03 -708.007"
+#! TITLE=""
 #! REQUIREMENTS_KEYWORD=""
-#! FME_DOCUMENT_GUID="e91e536a-7c8a-4106-a1b6-7c3b060e69cd"
-#! END_TCL=""
-#! WARN_INVALID_XFORM_PARAM="No"
-#! FME_GEOMETRY_HANDLING="Enhanced"
+#! FME_STROKE_MAX_DEVIATION="0"
+#! IGNORE_READER_FAILURE="No"
+#! BEGIN_TCL=""
+#! FME_REPROJECTION_ENGINE="FME"
 #! REDIRECT_TERMINATORS="NONE"
 #! MULTI_WRITER_DATASET_ORDER="BY_ID"
-#! DESTINATION_ROUTING_FILE=""
+#! END_PYTHON=""
+#! CATEGORY=""
+#! HISTORY=""
+#! LEGAL_TERMS_CONDITIONS=""
+#! SHOW_INFO_NODES="true"
+#! DESTINATION="NONE"
+#! FME_DOCUMENT_PRIORGUID="aed883d6-f8b3-11e3-8e67-d0b0296178cb,816a4cb4-f8b7-11e3-8e67-d0b0296178cb,30c0efde-f8c6-11e3-84e4-a36bf1b55e4e,7bf59054-f8cb-11e3-84e4-a36bf1b55e4e,40c74756-f8d1-11e3-84e4-a36bf1b55e4e,9248f56c-f8e4-11e3-8d63-fc1267f04b78,466c1eca-f8ea-11e3-9d32-a24eeb6b9ae7,d63ceabe-fbe9-11e3-8011-db0cc0abd5f4,2c27adb6-fc93-11e3-962e-ff05ddde1c1d,fe456cae-fc96-11e3-962e-ff05ddde1c1d,940033dc-fe2c-11e3-8608-fcf1c10c0ece,83f8e5da-2896-11e4-8568-a7502f462c21,dfa4710a-e75b-4c69-afca-de65e06dda0e,e91e536a-7c8a-4106-a1b6-7c3b060e69cd"
+#! REQUIREMENTS=""
+#! STRICT_PARAMETER_VALIDATION="false"
+#! DESCRIPTION=""
+#! USAGE=""
+#! END_TCL=""
+#! FME_GEOMETRY_HANDLING="Enhanced"
+#! ATTR_TYPE_ENCODING="SDF"
+#! LOG_MAX_PRECISION="Yes"
+#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Datum"
+#! WORKSPACE_VERSION="1"
+#! FME_DOCUMENT_GUID="032fb47b-1eaa-4c35-ae37-c876b5a81da6"
+#! WARN_INVALID_XFORM_PARAM="No"
+#! LAST_SAVE_DATE="2015-07-16T14:29:18"
+#! BEGIN_PYTHON=""
+#! PASSWORD=""
+#! LAST_SAVE_BUILD="FME(R) 2015.0 (20150204 - Build 15251 - WIN64)"
+#! SOURCE="NONE"
+#! LOG_FILE=""
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -68,7 +68,7 @@
 #! WRITE_DEFS="false"
 #! DEFLINE_TEMPLATE=""
 #! DEFLINE_ATTRS="false"
-#! EXPOSABLE_ATTRS="fme_rotation number(31,15) multi_reader_keyword char(50) fme_basename char(50) fme_sweep_angle number(31,15) fme_feature_type char(50) fme_geometry fme_char(50) fme_fill_color char(50) fme_secondary_axis number(31,15) fme_text_string char(50) text_line_eol char(10) fme_text_size number(31,15) multi_reader_id number(11,0) multi_reader_type char(50) fme_type char(50) multi_reader_full_id number(11,0) fme_dataset char(50) text_line_number number(11,0) fme_primary_axis number(31,15) fme_start_angle number(31,15) fme_color char(50) text_line_length number(6,0) text_line_type char(64)"
+#! EXPOSABLE_ATTRS="multi_reader_type char(50) multi_reader_full_id number(11,0) text_line_number number(11,0) fme_primary_axis number(31,15) multi_reader_id number(11,0) text_line_eol char(10) fme_color char(50) fme_basename char(50) text_line_length number(6,0) fme_start_angle number(31,15) fme_geometry fme_char(50) fme_text_size number(31,15) text_line_type char(64) multi_reader_keyword char(50) fme_dataset char(50) fme_feature_type char(50) fme_sweep_angle number(31,15) fme_fill_color char(50) fme_rotation number(31,15) fme_type char(50) fme_secondary_axis number(31,15) fme_text_string char(50)"
 #! DEFLINE_PARMS=""
 #! ATTR_INDEX_TYPES=""
 #! ATTR_NAME_INVALID_CHARS=""
@@ -77,10 +77,10 @@
 #! DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #! DATASET_TYPE="FILE"
 #! GENERATE_FME_BUILD_NUM="12201"
-#! COORDSYS=""
-#! MAX_FEATURES=""
 #! FEATURE_TYPES=""
+#! MAX_FEATURES=""
 #! START_FEATURE=""
+#! COORDSYS=""
 #! MAX_FEATURES_PER_FEATURE_TYPE=""
 #! MIN_FEATURES=""
 #! >
@@ -102,7 +102,7 @@
 #! WRITE_DEFS="true"
 #! DEFLINE_TEMPLATE="googlefusiontables_type {FME_GEN_GEOMETRY} googlefusiontables_drop_table NO googlefusiontables_truncate_table NO googlefusiontables_geometry_columns &quot;geom&quot; googlefusiontables_mode INHERIT_FROM_WRITER googlefusiontables_update_key_columns &quot;&quot;"
 #! DEFLINE_ATTRS="true"
-#! EXPOSABLE_ATTRS="fme_fill_color text googlefusiontables_type text fme_basename text fme_primary_axis number fme_text_size number fme_secondary_axis number fme_where text fme_feature_type text fme_geometry fme_char(50) fme_text_string text fme_rotation number fme_dataset text fme_start_angle number fme_sweep_angle number fme_db_operation text fme_type text fme_color text"
+#! EXPOSABLE_ATTRS="fme_feature_type text fme_fill_color text fme_geometry fme_char(50) fme_rotation number fme_type text fme_secondary_axis number googlefusiontables_type text fme_dataset text fme_db_operation text fme_color text fme_text_string text fme_text_size number fme_where text fme_basename text fme_start_angle number fme_primary_axis number fme_sweep_angle number"
 #! DEFLINE_PARMS="&quot;GUI FORCE_DEFS WHOLE_LINE CHOICE googlefusiontables_drop_table Yes%No Drop Existing Table&quot; No &quot;GUI FORCE_DEFS WHOLE_LINE CHOICE googlefusiontables_truncate_table Yes%No Truncate Existing Table&quot; No &quot;GUI OPTIONAL TEXT_ENCODED googlefusiontables_geometry_columns Geometry Column Name(s)&quot; geom &quot;GUI FORCE_DEFS WHOLE_LINE CHOICE googlefusiontables_mode INHERIT_FROM_WRITER%INSERT%UPDATE%DELETE Writer Mode&quot; INHERIT_FROM_WRITER &quot;GUI OPTIONAL TEXT_ENCODED googlefusiontables_update_key_columns Update Key Column(s)&quot; &quot;&quot; "
 #! ATTR_INDEX_TYPES=""
 #! ATTR_NAME_INVALID_CHARS="\\&quot;{}[]"
@@ -111,23 +111,23 @@
 #! DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #! DATASET_TYPE="NONE"
 #! GENERATE_FME_BUILD_NUM="14335"
-#! FANOUT_PREFIX=""
-#! COORDSYS=""
-#! FANOUT="No"
 #! FANOUT_DIRECTORY=""
-#! FANOUT_ID_ATTR=""
 #! FANOUT_SUFFIX=""
+#! COORDSYS=""
+#! FANOUT_PREFIX=""
+#! FANOUT="No"
+#! FANOUT_ID_ATTR=""
 #! >
 #! <METAFILE_PARAMETER
 #! NAME="ADVANCED_PARMS"
 #! VALUE="GOOGLEFUSIONTABLES_OUT_TRANSACTION_INTERVAL"
 #! />
 #! <METAFILE_PARAMETER
-#! NAME="NETWORK_AUTHENTICATION"
+#! NAME="NETWORK_PROXY"
 #! VALUE="NO"
 #! />
 #! <METAFILE_PARAMETER
-#! NAME="NETWORK_PROXY"
+#! NAME="NETWORK_AUTHENTICATION"
 #! VALUE="NO"
 #! />
 #! </DATASET>
@@ -558,10 +558,10 @@
 #! <FEAT_ATTRIBUTE ATTR_NAME="fme_feature_type" ATTR_TYPE="text"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #! <FEAT_ATTRIBUTE ATTR_NAME="fme_basename" ATTR_TYPE="text"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_drop_table" PARM_VALUE="No"/>
-#! <DEFLINE_PARM PARM_NAME="googlefusiontables_geometry_columns" PARM_VALUE="geom"/>
-#! <DEFLINE_PARM PARM_NAME="googlefusiontables_update_key_columns" PARM_VALUE=""/>
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_truncate_table" PARM_VALUE="No"/>
 #! <DEFLINE_PARM PARM_NAME="googlefusiontables_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#! <DEFLINE_PARM PARM_NAME="googlefusiontables_update_key_columns" PARM_VALUE=""/>
+#! <DEFLINE_PARM PARM_NAME="googlefusiontables_geometry_columns" PARM_VALUE="geom"/>
 #! </FEATURE_TYPE>
 #! </FEATURE_TYPES>
 #! <FMESERVER>
@@ -674,7 +674,7 @@
 #! />
 #! <GLOBAL_PARAMETER
 #! GUI_LINE="GUI IGNORE TEXT_OR_ATTR PHOTO_MAP_URL Photo Map URL:"
-#! DEFAULT_VALUE="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1r0xCHrPZYDQYAp5It8pUagWUcKUOzJr5bxjIs45C&amp;viz=MAP&amp;h=false&amp;lat=39.858915797703546&amp;lng=-104.67342124454217&amp;t=1&amp;z=20&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=KML"
+#! DEFAULT_VALUE="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1r0xCHrPZYDQYAp5It8pUagWUcKUOzJr5bxjIs45C&amp;viz=MAP&amp;h=false&amp;t=1&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=KML"
 #! IS_STAND_ALONE="true"
 #! />
 #! <GLOBAL_PARAMETER
@@ -760,7 +760,7 @@
 #! BOUNDING_RECT="1002 -2516 1156 885"
 #! STICKY="true"
 #! COLOUR="0.537255,0.8,0.894118"
-#! CONTENTS="34 36 46 32 26 48 49 45 33 "
+#! CONTENTS="36 26 48 49 45 46 33 34 32 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="44"
@@ -771,7 +771,7 @@
 #! BOUNDING_RECT="2195 -2509 1126 879"
 #! STICKY="true"
 #! COLOUR="0.556863,0.87451,0.494118"
-#! CONTENTS="41 58 38 52 40 50 51 57 27 42 43 53 "
+#! CONTENTS="51 38 50 27 41 58 42 52 43 53 40 57 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="64"
@@ -793,7 +793,7 @@
 #! BOUNDING_RECT="3899 -789 1186 378"
 #! STICKY="true"
 #! COLOUR="0.447059,0.356863,0.0901961"
-#! CONTENTS="154 108 131 "
+#! CONTENTS="108 131 154 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="141"
@@ -804,7 +804,7 @@
 #! BOUNDING_RECT="2565 -689 2600 683"
 #! STICKY="true"
 #! COLOUR="0.819608,0.756863,0.0666667"
-#! CONTENTS="130 154 86 108 131 134 151 96 "
+#! CONTENTS="108 96 130 131 154 134 86 151 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="150"
@@ -815,7 +815,7 @@
 #! BOUNDING_RECT="4004 -2217 1700 378"
 #! STICKY="true"
 #! COLOUR="0.447059,0.356863,0.0901961"
-#! CONTENTS="136 153 142 144 155 "
+#! CONTENTS="136 144 153 155 142 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="101"
@@ -826,7 +826,7 @@
 #! BOUNDING_RECT="942 -1536 674 945"
 #! STICKY="true"
 #! COLOUR="0.94902,0.211765,0.819608"
-#! CONTENTS="129 11 126 60 123 102 69 105 "
+#! CONTENTS="11 123 60 129 126 102 69 105 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="89"
@@ -837,7 +837,7 @@
 #! BOUNDING_RECT="955 -805 639 584"
 #! STICKY="true"
 #! COLOUR="0.803922,0.858824,0.247059"
-#! CONTENTS="99 157 125 133 146 "
+#! CONTENTS="99 125 146 133 157 "
 #! />
 #! <BOOKMARK
 #! IDENTIFIER="117"
@@ -848,7 +848,7 @@
 #! BOUNDING_RECT="2643 -1478 1194 965"
 #! STICKY="true"
 #! COLOUR="0.564706,0.439216,0.564706"
-#! CONTENTS="100 112 98 111 161 114 139 106 110 115 138 116 113 158 97 "
+#! CONTENTS="100 139 158 161 115 113 98 110 116 97 111 114 106 112 138 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -923,13 +923,13 @@
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer"/>
-#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
-#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="_latlist{0},_latlist{1},_latlist{2}"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer"/>
+#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRIM_TO_NONE" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="26"
@@ -1002,14 +1002,14 @@
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;space&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter"/>
 #! <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_latlist"/>
+#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="jpeg_exif_gpslatitude"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;space&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter"/>
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_latlist"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="jpeg_exif_gpslatitude"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="32"
@@ -1083,8 +1083,8 @@
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="latitude,&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;60.0&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;3600.0&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_2"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="latitude,&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;60.0&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_latlist&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;3600.0&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="40"
@@ -1159,13 +1159,13 @@
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer_2"/>
-#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
-#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="_longlist{0},_longlist{1},_longlist{2}"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer_2"/>
+#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRIM_TO_NONE" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="38"
@@ -1240,14 +1240,14 @@
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;space&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter_2"/>
 #! <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_longlist"/>
+#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="jpeg_exif_gpslongitude"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;space&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter_2"/>
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_longlist"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="jpeg_exif_gpslongitude"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="42"
@@ -1323,8 +1323,8 @@
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="longitude,&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;60.0&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;3600.0&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_3"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="longitude,&lt;at&gt;Evaluate&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;0&lt;closecurly&gt;&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;1&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;60.0&lt;closeparen&gt;+&lt;openparen&gt;&lt;at&gt;Value&lt;openparen&gt;_longlist&lt;opencurly&gt;2&lt;closecurly&gt;&lt;closeparen&gt;&lt;solidus&gt;3600.0&lt;closeparen&gt;&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="45"
@@ -1459,13 +1459,13 @@
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
-#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
-#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &quot;@Value(jpeg_exif_gpslatituderef)&quot; != &quot;N&quot;"/>
-#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
+#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &quot;@Value(jpeg_exif_gpslatituderef)&quot; != &quot;N&quot;"/>
+#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="48"
@@ -1539,8 +1539,8 @@
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_latlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="latitude,-&lt;at&gt;Value&lt;openparen&gt;latitude&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_4"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="latitude,-&lt;at&gt;Value&lt;openparen&gt;latitude&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="50"
@@ -1679,13 +1679,13 @@
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester_2"/>
-#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
-#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &quot;@Value(jpeg_exif_gpslongituderef)&quot; = &quot;W&quot;"/>
-#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
+#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST &quot;@Value(jpeg_exif_gpslongituderef)&quot; = &quot;W&quot;"/>
+#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="11"
@@ -1755,8 +1755,8 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_xresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_ycbcrpositioning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="jpeg_exif_make,jpeg_exif_model,jpeg_exif_gpslatitude,jpeg_exif_gpslatituderef,jpeg_exif_gpslongitude,jpeg_exif_gpslongituderef,jpeg_exif_aperturevalue,jpeg_exif_colorspace,jpeg_exif_componentsconfiguration,jpeg_exif_datetime,jpeg_exif_datetimedigitized,jpeg_exif_datetimeoriginal,jpeg_exif_exifversion,jpeg_exif_pixelxdimension,jpeg_exif_pixelydimension,jpeg_exif_software,jpeg_type,jpeg_exif_aperturevalue,jpeg_exif_exposuremode,jpeg_exif_exposureprogram,jpeg_exif_exposuretime,jpeg_exif_flash,jpeg_exif_flashpixversion,jpeg_exif_fnumber,jpeg_exif_focallength,jpeg_exif_focallengthin35mmfilm,jpeg_exif_gpsaltitude,jpeg_exif_gpsaltituderef,jpeg_exif_gpsimgdirection,jpeg_exif_gpsimgdirectionref,jpeg_exif_gpstimestamp,jpeg_exif_isospeedratings,jpeg_exif_meteringmode,jpeg_exif_orientation,jpeg_exif_resolutionunit,jpeg_exif_scenecapturetype,jpeg_exif_sensingmethod,jpeg_exif_sharpness,jpeg_exif_shutterspeedvalue,jpeg_exif_whitebalance,jpeg_exif_xresolution,jpeg_exif_ycbcrpositioning,jpeg_exif_yresolution"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="jpeg_exif_make,jpeg_exif_model,jpeg_exif_gpslatitude,jpeg_exif_gpslatituderef,jpeg_exif_gpslongitude,jpeg_exif_gpslongituderef,jpeg_exif_aperturevalue,jpeg_exif_colorspace,jpeg_exif_componentsconfiguration,jpeg_exif_datetime,jpeg_exif_datetimedigitized,jpeg_exif_datetimeoriginal,jpeg_exif_exifversion,jpeg_exif_pixelxdimension,jpeg_exif_pixelydimension,jpeg_exif_software,jpeg_type,jpeg_exif_aperturevalue,jpeg_exif_exposuremode,jpeg_exif_exposureprogram,jpeg_exif_exposuretime,jpeg_exif_flash,jpeg_exif_flashpixversion,jpeg_exif_fnumber,jpeg_exif_focallength,jpeg_exif_focallengthin35mmfilm,jpeg_exif_gpsaltitude,jpeg_exif_gpsaltituderef,jpeg_exif_gpsimgdirection,jpeg_exif_gpsimgdirectionref,jpeg_exif_gpstimestamp,jpeg_exif_isospeedratings,jpeg_exif_meteringmode,jpeg_exif_orientation,jpeg_exif_resolutionunit,jpeg_exif_scenecapturetype,jpeg_exif_sensingmethod,jpeg_exif_sharpness,jpeg_exif_shutterspeedvalue,jpeg_exif_whitebalance,jpeg_exif_xresolution,jpeg_exif_ycbcrpositioning,jpeg_exif_yresolution"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="99"
@@ -1772,12 +1772,12 @@
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
 #! <XFORM_ATTR ATTR_NAME="text_line_data" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="JSON_ATTR" PARM_VALUE="text_line_data"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONFlattener"/>
 #! <XFORM_PARM PARM_NAME="RECURSIVE" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="PREFIX_STRING" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JSON_ATTR" PARM_VALUE="text_line_data"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="70"
@@ -1904,11 +1904,11 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_xresolution" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_ycbcrpositioning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="SRC_ATTR" PARM_VALUE="jpeg_exif_gpslatitude"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeClassifier"/>
-#! <XFORM_PARM PARM_NAME="CLASS" PARM_VALUE="ASCII"/>
+#! <XFORM_PARM PARM_NAME="SRC_ATTR" PARM_VALUE="jpeg_exif_gpslatitude"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CLASS" PARM_VALUE="ASCII"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="61"
@@ -1984,13 +1984,13 @@
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer_3"/>
-#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
-#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="jpeg_exif_gpsaltitude"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeTrimmer_3"/>
+#! <XFORM_PARM PARM_NAME="TRIM_CHARS" PARM_VALUE="&lt;openparen&gt;&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="TRIM_TO_NONE" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRIM_TYPE" PARM_VALUE="Both"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="52"
@@ -2066,8 +2066,8 @@
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="longitude,-&lt;at&gt;Value&lt;openparen&gt;longitude&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator_5"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="longitude,-&lt;at&gt;Value&lt;openparen&gt;longitude&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="136"
@@ -2145,10 +2145,10 @@
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="datetime" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;quote&gt;report_type&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;photo&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_from&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;url&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;url_of_photo&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;latitude&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;latitude&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;longitude&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;longitude&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;datetime&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;datetime&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;subject&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_subject&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;content&lt;quote&gt;:&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_content&lt;closeparen&gt;&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator_3"/>
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="email_content"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;quote&gt;report_type&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;photo&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_from&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;url&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;url_of_photo&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;latitude&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;latitude&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;longitude&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;longitude&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;datetime&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;datetime&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;subject&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_subject&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;content&lt;quote&gt;:&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;email_content&lt;closeparen&gt;&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="email_content"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="72"
@@ -2225,10 +2225,10 @@
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="$(URL)&lt;solidus&gt;fmerest&lt;solidus&gt;v2&lt;solidus&gt;resources&lt;solidus&gt;FME_SHAREDRESOURCE_DATA&lt;solidus&gt;filesys&lt;solidus&gt;Photos&lt;solidus&gt;&lt;at&gt;Value&lt;openparen&gt;random_photo_folder&lt;closeparen&gt;&lt;solidus&gt;&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt;?accept=contents&lt;amp&gt;token=$(TOKEN)&lt;amp&gt;disposition=attachment"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="URLBuilder"/>
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="url_of_photo"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="$(URL)&lt;solidus&gt;fmerest&lt;solidus&gt;v2&lt;solidus&gt;resources&lt;solidus&gt;FME_SHAREDRESOURCE_DATA&lt;solidus&gt;filesys&lt;solidus&gt;Photos&lt;solidus&gt;&lt;at&gt;Value&lt;openparen&gt;random_photo_folder&lt;closeparen&gt;&lt;solidus&gt;&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt;?accept=contents&lt;amp&gt;token=$(TOKEN)&lt;amp&gt;disposition=attachment"/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="url_of_photo"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="142"
@@ -2306,11 +2306,11 @@
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="datetime" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="TIME_ATTR" PARM_VALUE="datetime"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TimeStamper"/>
-#! <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="XML DateTime (^Y-^m-^dT^H:^M:^S)"/>
+#! <XFORM_PARM PARM_NAME="TIME_ATTR" PARM_VALUE="datetime"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="FMT" PARM_VALUE="XML DateTime (^Y-^m-^dT^H:^M:^S)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="69"
@@ -2335,12 +2335,12 @@
 #! <XFORM_ATTR ATTR_NAME="email_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="email_attachment" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="file_name_only" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="SRC_ATTR" PARM_VALUE="email_attachment"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FilenamePartExtractor"/>
-#! <XFORM_PARM PARM_NAME="TGT_ATTR" PARM_VALUE="file_name_only"/>
 #! <XFORM_PARM PARM_NAME="FILENAME_PART" PARM_VALUE="Full Filename"/>
+#! <XFORM_PARM PARM_NAME="SRC_ATTR" PARM_VALUE="email_attachment"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TGT_ATTR" PARM_VALUE="file_name_only"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="27"
@@ -2416,11 +2416,11 @@
 #! <XFORM_ATTR ATTR_NAME="latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="2DPointReplacer"/>
-#! <XFORM_PARM PARM_NAME="YVALATTR" PARM_VALUE="@Value(latitude)"/>
-#! <XFORM_PARM PARM_NAME="XVALATTR" PARM_VALUE="@Value(longitude)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XVALATTR" PARM_VALUE="@Value(longitude)"/>
+#! <XFORM_PARM PARM_NAME="YVALATTR" PARM_VALUE="@Value(latitude)"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="157"
@@ -2444,8 +2444,8 @@
 #! <XFORM_ATTR ATTR_NAME="email_sent" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="email_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="email_attachment" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_publisher_attachment{0},email_attachment,&quot;&quot;,email_publisher_content,email_content,&quot;&quot;,email_publisher_from,email_from,&quot;&quot;,email_publisher_received,email_recieved,&quot;&quot;,email_publisher_sent,email_sent,&quot;&quot;,email_publisher_subject,email_subject,&quot;&quot;,email_publisher_to,email_to,&quot;&quot;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_publisher_attachment{0},email_attachment,&quot;&quot;,email_publisher_content,email_content,&quot;&quot;,email_publisher_from,email_from,&quot;&quot;,email_publisher_received,email_recieved,&quot;&quot;,email_publisher_sent,email_sent,&quot;&quot;,email_publisher_subject,email_subject,&quot;&quot;,email_publisher_to,email_to,&quot;&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="133"
@@ -2468,8 +2468,8 @@
 #! <XFORM_ATTR ATTR_NAME="email_publisher_from" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="email_publisher_sent" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="email_publisher_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_publisher_attachment{},email_publisher_to,email_publisher_received,email_publisher_subject,email_publisher_from,email_publisher_sent,email_publisher_content"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeExposer_3"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_publisher_attachment{},email_publisher_to,email_publisher_received,email_publisher_subject,email_publisher_from,email_publisher_sent,email_publisher_content"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="126"
@@ -2496,12 +2496,12 @@
 #! <XFORM_ATTR ATTR_NAME="file_name_only" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="RasterReader_2"/>
-#! <XFORM_PARM PARM_NAME="VISIBLE_READER_TYPE" PARM_VALUE="JPEG (Joint Photographic Experts Group)"/>
 #! <XFORM_PARM PARM_NAME="DATASET" PARM_VALUE="@Value(email_attachment)"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VISIBLE_READER_TYPE" PARM_VALUE="JPEG (Joint Photographic Experts Group)"/>
 #! <XFORM_PARM PARM_NAME="CONTINUE_ON_READER_ERROR" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="130"
@@ -2656,15 +2656,15 @@
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_topic" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerNotifier_4"/>
-#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
-#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_report"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;text_line_data&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="URL" PARM_VALUE="$(URL)"/>
+#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;text_line_data&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
+#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_report"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="134"
@@ -2675,7 +2675,7 @@
 #! ORDER="5e+014"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
-#! LAST_PARM_EDIT="15221"
+#! LAST_PARM_EDIT="15251"
 #! >
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
@@ -2745,17 +2745,17 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="email_replyto" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="FMEServerEmailGenerator"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerEmailGenerator"/>
-#! <XFORM_PARM PARM_NAME="email_attachment_paths" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="email_to" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;"/>
-#! <XFORM_PARM PARM_NAME="email_from" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="email_subject" PARM_VALUE="Your&lt;space&gt;request&lt;space&gt;FAILED!"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerEmailGenerator"/>
 #! <XFORM_PARM PARM_NAME="email_cc" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_from" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="email_subscriber_content" PARM_VALUE="Your&lt;space&gt;photo&lt;space&gt;was&lt;space&gt;taken&lt;space&gt;by:&lt;space&gt;&lt;at&gt;Value&lt;openparen&gt;jpeg_exif_make&lt;closeparen&gt;&lt;comma&gt;&lt;space&gt;&lt;at&gt;Value&lt;openparen&gt;jpeg_exif_model&lt;closeparen&gt;.&lt;space&gt;&lt;space&gt;This&lt;space&gt;service&lt;space&gt;failed&lt;space&gt;as&lt;space&gt;it&lt;space&gt;only&lt;space&gt;accepts&lt;space&gt;photos&lt;space&gt;that&lt;space&gt;are&lt;space&gt;geotagged."/>
+#! <XFORM_PARM PARM_NAME="email_attachment_paths" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_replyto" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_to" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="108"
@@ -2924,15 +2924,15 @@
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_topic" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerNotifier_2"/>
-#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
-#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_report"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;text_line_data&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="URL" PARM_VALUE="$(URL)"/>
+#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;text_line_data&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
+#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_report"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="131"
@@ -2943,7 +2943,7 @@
 #! ORDER="5e+014"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
-#! LAST_PARM_EDIT="15221"
+#! LAST_PARM_EDIT="15251"
 #! >
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
@@ -3020,17 +3020,17 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="email_replyto" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="FMEServerEmailGenerator"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerEmailGenerator_2"/>
-#! <XFORM_PARM PARM_NAME="email_attachment_paths" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="email_to" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;"/>
-#! <XFORM_PARM PARM_NAME="email_from" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="email_subject" PARM_VALUE="Your&lt;space&gt;request&lt;space&gt;succeeded!"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerEmailGenerator_2"/>
 #! <XFORM_PARM PARM_NAME="email_cc" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_from" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_subscriber_content" PARM_VALUE="Thanks&lt;space&gt;for&lt;space&gt;submitting&lt;space&gt;your&lt;space&gt;photo&lt;space&gt;to&lt;space&gt;the&lt;space&gt;demo&lt;space&gt;system!&lt;lt&gt;br&lt;gt&gt;&lt;lf&gt;&lt;lf&gt;&lt;lt&gt;p&lt;gt&gt;Your&lt;space&gt;photo&lt;space&gt;has&lt;space&gt;been&lt;space&gt;added&lt;space&gt;to&lt;space&gt;the&lt;space&gt;catalog.&lt;space&gt;To&lt;space&gt;see&lt;space&gt;the&lt;space&gt;photo&lt;space&gt;on&lt;space&gt;a&lt;space&gt;map&lt;space&gt;go&lt;space&gt;&lt;lt&gt;a&lt;space&gt;href=&lt;quote&gt;$(PHOTO_MAP_URL)&lt;amp&gt;lat=&lt;at&gt;Value&lt;openparen&gt;latitude&lt;closeparen&gt;&lt;amp&gt;lng=&lt;at&gt;Value&lt;openparen&gt;longitude&lt;closeparen&gt;&lt;amp&gt;z=13&lt;quote&gt;&lt;gt&gt;here&lt;lt&gt;&lt;solidus&gt;a&lt;gt&gt;.&lt;space&gt;A&lt;space&gt;red&lt;space&gt;pin&lt;space&gt;indicates&lt;space&gt;a&lt;space&gt;location&lt;space&gt;of&lt;space&gt;a&lt;space&gt;photo.&lt;space&gt;Click&lt;space&gt;on&lt;space&gt;that&lt;space&gt;to&lt;space&gt;see&lt;space&gt;a&lt;space&gt;thumbnail&lt;space&gt;and&lt;space&gt;a&lt;space&gt;link&lt;space&gt;to&lt;space&gt;the&lt;space&gt;complete&lt;space&gt;photo.&lt;lt&gt;&lt;solidus&gt;p&lt;gt&gt;"/>
+#! <XFORM_PARM PARM_NAME="email_attachment_paths" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="email_subscriber_content" PARM_VALUE="Thanks&lt;space&gt;for&lt;space&gt;submitting&lt;space&gt;your&lt;space&gt;photo&lt;space&gt;to&lt;space&gt;the&lt;space&gt;demo&lt;space&gt;system!&lt;lt&gt;br&lt;gt&gt;&lt;lf&gt;&lt;lf&gt;&lt;lt&gt;p&lt;gt&gt;Your&lt;space&gt;photo&lt;space&gt;has&lt;space&gt;been&lt;space&gt;added&lt;space&gt;to&lt;space&gt;the&lt;space&gt;catalog.&lt;space&gt;To&lt;space&gt;see&lt;space&gt;the&lt;space&gt;photo&lt;space&gt;on&lt;space&gt;a&lt;space&gt;map&lt;space&gt;go&lt;space&gt;&lt;lt&gt;a&lt;space&gt;href=&lt;quote&gt;$(PHOTO_MAP_URL)&lt;quote&gt;&lt;gt&gt;here&lt;lt&gt;&lt;solidus&gt;a&lt;gt&gt;.&lt;space&gt;A&lt;space&gt;red&lt;space&gt;pin&lt;space&gt;indicates&lt;space&gt;a&lt;space&gt;location&lt;space&gt;of&lt;space&gt;a&lt;space&gt;photo.&lt;space&gt;Click&lt;space&gt;on&lt;space&gt;that&lt;space&gt;to&lt;space&gt;see&lt;space&gt;a&lt;space&gt;thumbnail&lt;space&gt;and&lt;space&gt;a&lt;space&gt;link&lt;space&gt;to&lt;space&gt;the&lt;space&gt;complete&lt;space&gt;photo.&lt;lt&gt;&lt;solidus&gt;p&lt;gt&gt;"/>
+#! <XFORM_PARM PARM_NAME="email_replyto" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="email_to" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_from&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="153"
@@ -3179,15 +3179,15 @@
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_topic" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_notifier_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FMEServerNotifier"/>
-#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
-#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_new_data_logged"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_content&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="URL" PARM_VALUE="$(URL)"/>
+#! <XFORM_PARM PARM_NAME="USERNAME" PARM_VALUE="$(HTTP_AUTH_USERNAME)"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="BODY" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;email_content&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="PASSWORD" PARM_VALUE="$(HTTP_AUTH_PASSWORD)"/>
+#! <XFORM_PARM PARM_NAME="TOPIC" PARM_VALUE="photo_map_new_data_logged"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="120"
@@ -3268,13 +3268,13 @@
 #! <XFORM_ATTR ATTR_NAME="_error" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_url_contents" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPFileUploader_Output"/>
-#! <XFORM_PARM PARM_NAME="MESSAGE" PARM_VALUE="Feature is:"/>
-#! <XFORM_PARM PARM_NAME="FEATURE_TYPE" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="MAXFEATS" PARM_VALUE="20"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="FEATURE_TYPE" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="MAXCOORDS" PARM_VALUE="20"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MESSAGE" PARM_VALUE="Feature is:"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="137"
@@ -3423,35 +3423,35 @@
 #! <XFORM_ATTR ATTR_NAME="_error" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_http_status_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_url_contents" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PROXY_PORT" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPMultipartUploader"/>
-#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="Basic"/>
-#! <XFORM_PARM PARM_NAME="PROXY_AUTH_METHOD" PARM_VALUE="Basic"/>
-#! <XFORM_PARM PARM_NAME="MULTIPART_PARAMS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PROXY_URL" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_url_contents"/>
-#! <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
-#! <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
-#! <XFORM_PARM PARM_NAME="PROXY_PASSWORD" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MULTIPART_FILES_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
-#! <XFORM_PARM PARM_NAME="FOLLOW_REDIRECTS" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="UPLOAD_METHOD" PARM_VALUE="POST"/>
-#! <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MULTIPART_FORM_DATA_FILE" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;email_attachment&lt;closeparen&gt;"/>
-#! <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PROXY_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MULTIPART_FORM_DATA_STRING" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="REQUEST_HEADER" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="TARGET_URL" PARM_VALUE="$(URL)&lt;solidus&gt;fmerest&lt;solidus&gt;v2&lt;solidus&gt;resources&lt;solidus&gt;FME_SHAREDRESOURCE_DATA&lt;solidus&gt;filesys&lt;solidus&gt;Photos&lt;solidus&gt;&lt;at&gt;Value&lt;openparen&gt;random_photo_folder&lt;closeparen&gt;?createDirectories=true&lt;amp&gt;detail=low&lt;amp&gt;overwrite=false&lt;amp&gt;token=$(TOKEN)"/>
+#! <XFORM_PARM PARM_NAME="TARGET_ATTR" PARM_VALUE="_url_contents"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AUTH_METHOD" PARM_VALUE="Basic"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="HTTPMultipartUploader"/>
+#! <XFORM_PARM PARM_NAME="RESPONSE_HEADER_LIST_ATTR" PARM_VALUE="_headers"/>
+#! <XFORM_PARM PARM_NAME="HTTP_AUTH_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="HTTP_RESPONSE_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TARGET_ATTR_ENCODING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="REQUEST_HEADER" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MULTIPART_PARAMS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="UPLOAD_METHOD" PARM_VALUE="POST"/>
+#! <XFORM_PARM PARM_NAME="HTTP_REQUEST_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AUTH_USERNAME" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="PROXY_USERNAME" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PROXY_AUTH_METHOD" PARM_VALUE="Basic"/>
+#! <XFORM_PARM PARM_NAME="MULTIPART_FILES_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MULTIPART_FORM_DATA_STRING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ERROR_ATTR" PARM_VALUE="_error"/>
+#! <XFORM_PARM PARM_NAME="USE_COOKIES" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="MULTIPART_FORM_DATA_FILE" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;email_attachment&lt;closeparen&gt;"/>
+#! <XFORM_PARM PARM_NAME="PROXY_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="STATUS_CODE_ATTR" PARM_VALUE="_http_status_code"/>
+#! <XFORM_PARM PARM_NAME="PROXY_URL" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="FOLLOW_REDIRECTS" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="PROXY_PORT" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AUTH_PASSWORD" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PROXY_PASSWORD" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="102"
@@ -3479,10 +3479,10 @@
 #! <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="fme_feature_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="random_photo_folder" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="UUIDGenerator"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="UUID_ATTR" PARM_VALUE="random_photo_folder"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="88"
@@ -3559,8 +3559,8 @@
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="jpeg_exif_make,make,&quot;&quot;,jpeg_exif_model,model,&quot;&quot;,jpeg_exif_gpsaltitude,altitude,&quot;&quot;,email_subject,subject,&quot;&quot;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_2"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="jpeg_exif_make,make,&quot;&quot;,jpeg_exif_model,model,&quot;&quot;,jpeg_exif_gpsaltitude,altitude,&quot;&quot;,email_subject,subject,&quot;&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="97"
@@ -3631,14 +3631,14 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_ycbcrpositioning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="1,0,3,180,6,-90,8,90"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeValueMapper"/>
-#! <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="jpeg_exif_orientation"/>
 #! <XFORM_PARM PARM_NAME="DIRECTION" PARM_VALUE="Forward (Source To Destination)"/>
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_rotation"/>
-#! <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeValueMapper"/>
 #! <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="0"/>
+#! <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="1,0,3,180,6,-90,8,90"/>
 #! <XFORM_PARM PARM_NAME="MAPPING_GRP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="jpeg_exif_orientation"/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_rotation"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="98"
@@ -3709,10 +3709,10 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_ycbcrpositioning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="RasterRotationApplier"/>
-#! <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Bilinear"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Bilinear"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="100"
@@ -3783,12 +3783,12 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_ycbcrpositioning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XORIG" PARM_VALUE="0"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Rotator_2"/>
-#! <XFORM_PARM PARM_NAME="ANGLE" PARM_VALUE="@Value(_rotation)"/>
 #! <XFORM_PARM PARM_NAME="YORIG" PARM_VALUE="0"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Rotator_2"/>
+#! <XFORM_PARM PARM_NAME="XORIG" PARM_VALUE="0"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ANGLE" PARM_VALUE="@Value(_rotation)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="106"
@@ -3992,12 +3992,12 @@
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterBlob" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="RasterExtractor"/>
-#! <XFORM_PARM PARM_NAME="RASTER_FORMAT_ATTR" PARM_VALUE="_rasterFormatName"/>
 #! <XFORM_PARM PARM_NAME="RASTER_FORMAT" PARM_VALUE="JPEG (Joint Photographic Experts Group)"/>
+#! <XFORM_PARM PARM_NAME="RASTER_FORMAT_ATTR" PARM_VALUE="_rasterFormatName"/>
 #! <XFORM_PARM PARM_NAME="RASTER_BLOB_ATTR" PARM_VALUE="_rasterBlob"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="118"
@@ -4074,11 +4074,11 @@
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="MODE_NAME" PARM_VALUE="Replace with Point"/>
-#! <XFORM_PARM PARM_NAME="PARAMETER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="ZVAL" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="VertexCreator"/>
 #! <XFORM_PARM PARM_NAME="XVAL" PARM_VALUE="@Value(longitude)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="MODE_NAME" PARM_VALUE="Replace with Point"/>
 #! <XFORM_PARM PARM_NAME="YVAL" PARM_VALUE="@Value(latitude)"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
@@ -4157,10 +4157,10 @@
 #! <XFORM_ATTR ATTR_NAME="_longlist{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="url_of_photo" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE="LL84"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateSystemSetter"/>
+#! <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE="LL84"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="111"
@@ -4233,13 +4233,13 @@
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterBlob" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeFileWriter"/>
-#! <XFORM_PARM PARM_NAME="FILE_NAME" PARM_VALUE="@Value(email_attachment)"/>
-#! <XFORM_PARM PARM_NAME="OVERWRITE_FILE" PARM_VALUE="Overwrite file"/>
 #! <XFORM_PARM PARM_NAME="CHAR_ENCODING" PARM_VALUE="fme-binary"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeFileWriter"/>
 #! <XFORM_PARM PARM_NAME="SOURCE_ATTR" PARM_VALUE="_rasterBlob"/>
+#! <XFORM_PARM PARM_NAME="OVERWRITE_FILE" PARM_VALUE="Overwrite file"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="FILE_NAME" PARM_VALUE="@Value(email_attachment)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="138"
@@ -4312,13 +4312,13 @@
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterBlob" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_attachment,$(FME_SHAREDRESOURCE_TEMP)&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt;"/>
-#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
+#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="email_attachment,$(FME_SHAREDRESOURCE_TEMP)&lt;at&gt;Value&lt;openparen&gt;file_name_only&lt;closeparen&gt;"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="116"
@@ -4390,11 +4390,11 @@
 #! <XFORM_ATTR ATTR_NAME="jpeg_exif_yresolution" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rotation" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_rasterFormatName" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
 #! <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_rasterBlob"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -4820,28 +4820,28 @@
 #! <SUBDOCUMENTS>
 #! <SUBDOCUMENT
 #! NAME="FMEServerEmailGenerator"
-#! VIEW_POSITION="0 0"
-#! GUID="411718c1-7b1a-4e88-8025-b4ff8df36d1a"
-#! DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This transformer provides an easy method for creating an email message to be sent by the FME Server Notification Service. &lt;/p&gt;&#10;"
-#! DOC_DYNAMIC_INPUT_ATTRS="0"
-#! REQUIREMENTS="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FME Server 2013&lt;/p&gt;&#10;"
-#! FME_PROCESS_GROUPS_ORDERED="No"
-#! LEGAL_TERMS_CONDITIONS="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Copyright (c) 2012 Safe Software Inc.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Permission is granted to anyone, free of charge, to use, modify and distribute the object code form of this template for any purpose, subject to the following restrictions:&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1) The origin of this template and associated FME(R) software must not be misrepresented.&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2) This template may only be used in conjunction with a validly licensed copy of FME software.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;THIS SOFTWARE IS PROVIDED BY SAFE SOFTWARE INC. &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SAFE SOFTWARE INC. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! IS_VISIBLE="false"
-#! SUPPRESS_UPGRADE="false"
-#! HISTORY="21-03-2013,Aaron&lt;space&gt;Koning,Created"
-#! XFORM_DEPRECATED="No"
-#! USAGE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;1. Create Topic and Email Subscriber&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;In the FME Server Web Interface, create a topic for notifications to be sent to and also create a email subscriber that subscribes to this topic.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;2. Create a Workspace &lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Once you file out the the email fields in the transformer you can send the email message in two different ways:&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;A. Send an email when the workspace completes&lt;/span&gt;&lt;/p&gt;&#10;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-size:8pt; text-decoration: underline;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; text-decoration:none;&quot;&gt;add a text file writer to the workspace&lt;/span&gt;&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;connect this transformer to the text file writer&apos;s feature type&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;publish the workspace&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;register it with the Job Submitter, Data Download and/or Notification Service&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for each service, click the edit button&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Topics to Publish (Success), select the topic you created earlier&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Notification Writer, select the text file writer you added eariler&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;finish publishing the workspace&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;now the workspace will send an email whenever it is run through the FME Server Service you registered it with.&lt;/li&gt;&lt;/ul&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;B. Send an email using a transformer&lt;/span&gt;&lt;/p&gt;&#10;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-size:8pt; text-decoration: underline;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; text-decoration:none;&quot;&gt;add a FMEServerNotifier transformer to your workflow&lt;/span&gt;&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;configure it to publish to the topic that you created earlier&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Content, select the text_line_data attribute&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;now the workspace will send an email whenever it is run.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"
-#! TITLE="FMEServerEmailGenerator"
-#! DOC_TOP_LEFT="38 -1194"
-#! FME_DOCUMENT_GUID="411718c1-7b1a-4e88-8025-b4ff8df36d1a"
-#! DOC_EXTENTS="3985 1128"
-#! REQUIREMENTS_KEYWORD="none"
-#! ZOOM_SCALE="100"
 #! FME_DOCUMENT_PRIORGUID=""
-#! CATEGORY="FME Server"
+#! FME_DOCUMENT_GUID="411718c1-7b1a-4e88-8025-b4ff8df36d1a"
+#! REQUIREMENTS_KEYWORD="none"
 #! FME_PROCESS_COUNT="NO_PARALLELISM"
 #! FME_PROCESS_GROUP_BY=""
+#! USAGE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;1. Create Topic and Email Subscriber&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; text-decoration: underline;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;In the FME Server Web Interface, create a topic for notifications to be sent to and also create a email subscriber that subscribes to this topic.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;2. Create a Workspace &lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Once you file out the the email fields in the transformer you can send the email message in two different ways:&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;A. Send an email when the workspace completes&lt;/span&gt;&lt;/p&gt;&#10;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-size:8pt; text-decoration: underline;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; text-decoration:none;&quot;&gt;add a text file writer to the workspace&lt;/span&gt;&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;connect this transformer to the text file writer&apos;s feature type&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;publish the workspace&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;register it with the Job Submitter, Data Download and/or Notification Service&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for each service, click the edit button&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Topics to Publish (Success), select the topic you created earlier&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Notification Writer, select the text file writer you added eariler&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;finish publishing the workspace&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;now the workspace will send an email whenever it is run through the FME Server Service you registered it with.&lt;/li&gt;&lt;/ul&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline;&quot;&gt;B. Send an email using a transformer&lt;/span&gt;&lt;/p&gt;&#10;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-size:8pt; text-decoration: underline;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; text-decoration:none;&quot;&gt;add a FMEServerNotifier transformer to your workflow&lt;/span&gt;&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;configure it to publish to the topic that you created earlier&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;for Content, select the text_line_data attribute&lt;/li&gt;&#10;&lt;li style=&quot; font-size:8pt;&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;now the workspace will send an email whenever it is run.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"
+#! TITLE="FMEServerEmailGenerator"
+#! REQUIREMENTS="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FME Server 2013&lt;/p&gt;&#10;"
+#! DOC_DYNAMIC_INPUT_ATTRS="0"
+#! GUID="411718c1-7b1a-4e88-8025-b4ff8df36d1a"
+#! HISTORY="21-03-2013,Aaron&lt;space&gt;Koning,Created"
+#! DOC_EXTENTS="3985 1128"
+#! IS_VISIBLE="false"
+#! LEGAL_TERMS_CONDITIONS="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Copyright (c) 2012 Safe Software Inc.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Permission is granted to anyone, free of charge, to use, modify and distribute the object code form of this template for any purpose, subject to the following restrictions:&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1) The origin of this template and associated FME(R) software must not be misrepresented.&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2) This template may only be used in conjunction with a validly licensed copy of FME software.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;THIS SOFTWARE IS PROVIDED BY SAFE SOFTWARE INC. &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SAFE SOFTWARE INC. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! DOC_TOP_LEFT="38 -1194"
+#! VIEW_POSITION="0 0"
+#! ZOOM_SCALE="100"
+#! SUPPRESS_UPGRADE="false"
+#! XFORM_DEPRECATED="No"
+#! CATEGORY="FME Server"
+#! DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This transformer provides an easy method for creating an email message to be sent by the FME Server Notification Service. &lt;/p&gt;&#10;"
+#! FME_PROCESS_GROUPS_ORDERED="No"
 #! >
 #! <GLOBAL_PARAMETERS>
 #! <GLOBAL_PARAMETER
@@ -4894,7 +4894,7 @@
 #! BOUNDING_RECT="768 -694 3206 500"
 #! STICKY="true"
 #! COLOUR="0.192157,0.0784314,0.427451"
-#! CONTENTS="17 18 7 16 8 4 6 9 5 20 19 "
+#! CONTENTS="4 19 17 9 6 7 5 16 20 8 18 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -4920,16 +4920,16 @@
 #! <XFORM_ATTR ATTR_NAME="_email_subject" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_subscriber_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="text_line_data" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="ROOT_QUERY_EXPR" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;quote&gt;email_to&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_to&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_cc&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_cc&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_from&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_from&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_replyto&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_replyto&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_subject&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_subject&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;subscriber_content&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_subscriber_content&lt;quote&gt;&lt;closeparen&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONTemplater"/>
+#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SUB_TEMPLATE_PARAMS" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CONSECUTIVE_GROUPS" PARM_VALUE="No"/>
 #! <XFORM_PARM PARM_NAME="ROOT_QUERY_FILE" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VISIBLE_QUERY_VALIDATE" PARM_VALUE="Yes"/>
 #! <XFORM_PARM PARM_NAME="RESULT_ATTRIBUTE" PARM_VALUE="text_line_data"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONTemplater"/>
-#! <XFORM_PARM PARM_NAME="VISIBLE_QUERY_VALIDATE" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ROOT_QUERY_EXPR" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;quote&gt;email_to&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_to&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_cc&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_cc&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_from&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_from&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_replyto&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_replyto&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;email_subject&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_subject&lt;quote&gt;&lt;closeparen&gt;&lt;comma&gt;&lt;lf&gt;&lt;quote&gt;subscriber_content&lt;quote&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;_email_subscriber_content&lt;quote&gt;&lt;closeparen&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SUB_TEMPLATE_PARAMS" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="2"
@@ -4952,13 +4952,13 @@
 #! <XFORM_ATTR ATTR_NAME="_email_to" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_subject" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_subscriber_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_email_to,$(email_to),_email_subject,$(email_subject),_email_subscriber_content,$(email_subscriber_content)"/>
-#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
+#! <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
 #! <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="0"/>
+#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="0"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_email_to,$(email_to),_email_subject,$(email_subject),_email_subscriber_content,$(email_subscriber_content)"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="Use Empty String"/>
 #! <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="0"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="3"
@@ -4978,8 +4978,8 @@
 #! <XFORM_ATTR ATTR_NAME="_email_replyto" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_paths" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_cc" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_email_from {$(email_from)} _email_replyto {$(email_replyto)} _email_attachment_paths {$(email_attachment_paths)} _email_cc {$(email_cc)}"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ParameterFetcher"/>
+#! <XFORM_PARM PARM_NAME="ATTR_LIST" PARM_VALUE="_email_from {$(email_from)} _email_replyto {$(email_replyto)} _email_attachment_paths {$(email_attachment_paths)} _email_cc {$(email_cc)}"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="4"
@@ -5004,14 +5004,14 @@
 #! <XFORM_ATTR ATTR_NAME="_email_subscriber_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="text_line_data" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list{}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;comma&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter"/>
 #! <XFORM_PARM PARM_NAME="TRIM_OPTION" PARM_VALUE="Both"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_email_attachment_path_list"/>
+#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="_email_attachment_paths"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="DELIMITER" PARM_VALUE="&lt;comma&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="DROP_EMPTY_PARTS" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeSplitter"/>
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="_email_attachment_path_list"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="_email_attachment_paths"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="5"
@@ -5048,12 +5048,12 @@
 #! <XFORM_ATTR ATTR_NAME="_email_subject" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_email_subscriber_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="text_line_data" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="INDEX_ATTR" PARM_VALUE="_element_index"/>
 #! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="List Elements and Original Attributes"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListExploder"/>
 #! <XFORM_PARM PARM_NAME="LIST_ATTR" PARM_VALUE="_email_attachment_path_list{}"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="INDEX_ATTR" PARM_VALUE="_element_index"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="6"
@@ -5080,10 +5080,10 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;quote&gt;email_attachment&lt;opencurly&gt;&lt;at&gt;Value&lt;openparen&gt;_element_index&lt;closeparen&gt;&lt;closecurly&gt;&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;_email_attachment_path_list&lt;closeparen&gt;&lt;quote&gt;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator"/>
-#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_email_attachment_json"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;quote&gt;email_attachment&lt;opencurly&gt;&lt;at&gt;Value&lt;openparen&gt;_element_index&lt;closeparen&gt;&lt;closecurly&gt;&lt;quote&gt;:&lt;space&gt;&lt;quote&gt;&lt;at&gt;Value&lt;openparen&gt;_email_attachment_path_list&lt;closeparen&gt;&lt;quote&gt;"/>
+#! <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="_email_attachment_json"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="7"
@@ -5110,31 +5110,31 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
-#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Assemble One Level"/>
-#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
-#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
+#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="WEIGHT" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE="_email_attachment_json"/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ORDERED" PARM_VALUE="No"/>
+#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CHILD_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Aggregator"/>
+#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
 #! <XFORM_PARM PARM_NAME="PRESERVE_ID" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="COUNT_ATTR" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="ATTR_TO_TRAIT" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="CONCAT_ATTRS" PARM_VALUE="_email_attachment_json"/>
+#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="Assemble One Level"/>
+#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="_email_feature_id"/>
 #! <XFORM_PARM PARM_NAME="ID_SELECTION" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="AV" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SEP" PARM_VALUE="&lt;comma&gt;"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PARENT_ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="ID_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SUM" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="ASSEMBLE_ONE_LEVEL_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="8"
@@ -5161,16 +5161,16 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="text_line_data"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
+#! <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
 #! <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE="&lt;comma&gt;&lt;lf&gt;&lt;at&gt;Value&lt;openparen&gt;_email_attachment_json&lt;closeparen&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer"/>
-#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="text_line_data"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
-#! <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="9"
@@ -5197,16 +5197,16 @@
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_path_list" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_email_attachment_json" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="_email_attachment_json"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer_2"/>
+#! <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
+#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;backslash&gt;"/>
+#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
+#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CASE" PARM_VALUE="no"/>
 #! <XFORM_PARM PARM_NAME="REPLACE_TEXT" PARM_VALUE="&lt;backslash&gt;&lt;backslash&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringReplacer_2"/>
-#! <XFORM_PARM PARM_NAME="NO_MATCH_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="_email_attachment_json"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="FIND_TEXT" PARM_VALUE="&lt;backslash&gt;"/>
-#! <XFORM_PARM PARM_NAME="REGEXP" PARM_VALUE="no"/>
-#! <XFORM_PARM PARM_NAME="NO_MATCH" PARM_VALUE="_FME_NO_OP_"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="10"
@@ -5241,13 +5241,13 @@
 #! <XFORM_ATTR ATTR_NAME="_email_subject" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="_email_subscriber_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #! <XFORM_ATTR ATTR_NAME="text_line_data" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
-#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
-#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST _email_attachment_paths ATTRIBUTE_IS_EMPTY &lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
+#! <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="TEST _email_attachment_paths ATTRIBUTE_IS_EMPTY &lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="Automatic"/>
+#! <XFORM_PARM PARM_NAME="TEST_DESCRIPTION" PARM_VALUE="&quot;&quot;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="11"
@@ -5263,13 +5263,13 @@
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <FEAT_COLLAPSED COLLAPSED="0"/>
 #! <XFORM_ATTR ATTR_NAME="_email_feature_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Counter"/>
-#! <XFORM_PARM PARM_NAME="SCOPE" PARM_VALUE="Local"/>
-#! <XFORM_PARM PARM_NAME="START" PARM_VALUE="0"/>
 #! <XFORM_PARM PARM_NAME="DOMAIN" PARM_VALUE="counter"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="_email_feature_id"/>
+#! <XFORM_PARM PARM_NAME="SCOPE" PARM_VALUE="Local"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="START" PARM_VALUE="0"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <SUBDOCUMENT_IOS>
@@ -5433,7 +5433,7 @@ DEFAULT_MACRO HTTP_AUTH_USERNAME demo-author
 GUI IGNORE TEXT HTTP_AUTH_USERNAME Username:
 DEFAULT_MACRO HTTP_AUTH_PASSWORD fme_decrypt(MDowfCN8I3xcG3GQ/TeRRUJUZ5LDPtdvpscbh7Nj9gG/INBkAGA+fkaDrNbhZtfa3rmkUUrCxKWaAFwiYsKgWJNl/0mRpxUuP+IT2c+Qhh26JEZtUWAmpuoaQCdQ3ykKWm2zaoAM5MBCGaGEuYe+6AS07/nLNRJwqp1jdwP1FgVCbXRvZtWfKjEZlNJYQ+EicVc6cv2DxCYJyTljvXwF8mKxenML6FKJiHARQCO8OMJidKKZQJP1SeYIhqB0YrtGw4cGV2ZquQKifvRjB2Tl6wBAWDmeCg+R1jvft1tR17SISyTDv77K+mV80w2aaUSgybbF7coM0BrQPcpehfjlW+YxV73+9mPMFXKQeznZ22T8MJor57O44p8U2NQCw35HiFBs0oVP9VkkY0D/WzGRevseyX1pIEWJSQSFwkJVhiyXavMDz5E5SEYgTZHfVeGBXCDuIEEbfRRkPU5yD2nw2ZAVimDRD7UQhEEY6PosGqU17He4y35WEfAggQ40+EKuupOQSZRsKotTTqlYGHJtX49ymuKqfyZzOAUSUzDMcj8gfDgzOCcuhw2sK3fJaMszISTJCkq/5IzoHV2qdDdBrkmX5gIaBA4hL4LDujYdwSXSbnqVtblDwEvE5DDfPRE2SivbexB0CPHBBBLlcDDWWgR9Xw9BMLtQ6WLZL4AVxBPtStWDra2WOXvTEN0pMQkEo609oYOVPPVhnYHS65zZZFiQTqqmNYGfW2xliwnmiEL0hDYo0J+K5Ve123bRB4ScRPQOprIGt5eM9UK3x/DinqaHNY9VclOjXAzIQ8YTE4C7534G52IKYmFynovSGhIzo2zd7E3/5YmX6uyjLqrpOXnqy+JIBYeCCtbJ2vwa4vNuM1lT/W33hCCOkD/12aMpyWScKzvVbhEqqWUjHiIdXARqUD4voGLX)
 GUI IGNORE PASSWORD HTTP_AUTH_PASSWORD Password:
-DEFAULT_MACRO PHOTO_MAP_URL https://www.google.com/fusiontables/embedviz?q=select+col0+from+1r0xCHrPZYDQYAp5It8pUagWUcKUOzJr5bxjIs45C&viz=MAP&h=false&lat=39.858915797703546&lng=-104.67342124454217&t=1&z=20&l=col0&y=2&tmplt=2&hml=KML
+DEFAULT_MACRO PHOTO_MAP_URL https://www.google.com/fusiontables/embedviz?q=select+col0+from+1r0xCHrPZYDQYAp5It8pUagWUcKUOzJr5bxjIs45C&viz=MAP&h=false&t=1&l=col0&y=2&tmplt=2&hml=KML
 GUI IGNORE TEXT PHOTO_MAP_URL Photo Map URL:
 DEFAULT_MACRO TOKEN 8be243c0fc2f5f34977050bdab57ebbdd3e72aa2
 GUI IGNORE TEXT TOKEN TOKEN:
@@ -5587,7 +5587,7 @@ FME_REPROJECTION_ENGINE FME
 FME_IMPLICIT_CSMAP_REPROJECTION_MODE Datum
 FME_GEOMETRY_HANDLING Enhanced
 FME_STROKE_MAX_DEVIATION 0
-LOG_FILTER_MASK -1
+LOG_FILTER_MASK -17
 DEFAULT_MACRO DATASET_KEYWORD_TEXTLINE_1 TEXTLINE_1
 DEFAULT_MACRO DATASET_KEYWORD_GOOGLEFUSIONTABLES_1 GOOGLEFUSIONTABLES_1
 FME_PASSWORD_PARAMETER_LIST HTTP_AUTH_PASSWORD
@@ -5674,12 +5674,12 @@ MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_subscriber_content Your<sp
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_attachment_paths 
 DEFAULT_MACRO FMEServerEmailGenerator_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(FMEServerEmailGenerator_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(FMEServerEmailGenerator_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT1418411244 Input Splitter"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT1437082159 Input Splitter"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"
 # -------------------------------------------------------------------------
 
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_23aa19c8_28f2_4163_8cca_37828481389b2_createDomain { in_domainName } {    set domainName $in_domainName;    if { {Local} == {Local} }    {       set xFormName [FME_EncodeText {$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_eee5b6c8_f3aa_45ce_a03f_64c8246efcc60_createDomain { in_domainName } {    set domainName $in_domainName;    if { {Local} == {Local} }    {       set xFormName [FME_EncodeText {$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_OUTPUT"         "_email_feature_id" @Count(fme_encoded,@Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_23aa19c8_28f2_4163_8cca_37828481389b2_createDomain {counter}"), "0")
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_OUTPUT"         "_email_feature_id" @Count(fme_encoded,@Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_eee5b6c8_f3aa_45ce_a03f_64c8246efcc60_createDomain {counter}"), "0")
 
 # -------------------------------------------------------------------------
 
@@ -5695,7 +5695,7 @@ FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME $(FMEServerEmailGenerator_WORKSPA
 FACTORY_DEF * TestFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_JSONTemplater_OUTPUT"    TEST _email_attachment_paths ATTRIBUTE_IS_EMPTY <Unused> ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"    OUTPUT FAILED FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_FAILED"
 # -------------------------------------------------------------------------
 
-Tcl2 set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitDelim [FME_DecodeText {<comma>}];      if { [regexp {^([1-9][0-9]*s)+$} [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitDelim]] }      {         set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitWidths [split [regsub -all {s$} {<comma>} {}] s];         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitWidths;            set source [FME_GetAttribute {"_email_attachment_paths"}];            set attrNum 0;            set listName {_email_attachment_path_list};            set attrPos 0;            foreach width [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitDelim;            set delim [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7582_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"_email_attachment_paths"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_email_attachment_path_list};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
+Tcl2 set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitDelim [FME_DecodeText {<comma>}];      if { [regexp {^([1-9][0-9]*s)+$} [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitDelim]] }      {         set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitWidths [split [regsub -all {s$} {<comma>} {}] s];         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitWidths;            set source [FME_GetAttribute {"_email_attachment_paths"}];            set attrNum 0;            set listName {_email_attachment_path_list};            set attrPos 0;            foreach width [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitDelim;            set delim [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e0_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"_email_attachment_paths"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_email_attachment_path_list};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_FAILED"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_OUTPUT"         @Tcl2($(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit)
 
 # -------------------------------------------------------------------------
@@ -5703,8 +5703,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAM
 FACTORY_DEF * ElementFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_OUTPUT"    LIST_NAME "_email_attachment_path_list{}"    ELEMENT_NUMBER_FIELD "_element_index"    CLONE_GEOMETRY    MODE LEAN    OUTPUT ELEMENT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"         @RemoveAttributes(ElementFactory.baseCloned)
 # -------------------------------------------------------------------------
 
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_54db4f0f_eb2e_40fe_a303_0bb8a0123a302_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {_email_attachment_json}] [FME_DecodeText $attrText] }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_OUTPUT"        @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_54db4f0f_eb2e_40fe_a303_0bb8a0123a302_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<quote>email_attachment<opencurly><at>Value<openparen>_element_index<closeparen><closecurly><quote>:<space><quote><at>Value<openparen>_email_attachment_path_list<closeparen><quote>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator)} ")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_ffe7907f_c7e9_4f2f_9e9d_4385cc6ff2c90_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {_email_attachment_json}] [FME_DecodeText $attrText] }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_OUTPUT"        @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_ffe7907f_c7e9_4f2f_9e9d_4385cc6ff2c90_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<quote>email_attachment<opencurly><at>Value<openparen>_element_index<closeparen><closecurly><quote>:<space><quote><at>Value<openparen>_email_attachment_path_list<closeparen><quote>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator)} ")
 
 # -------------------------------------------------------------------------
 
@@ -5716,17 +5716,17 @@ FACTORY_DEF * AggregateFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPA
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_d9667834_6f6d_407b_b895_dec3028ae6052_replacer { findText replaceText invalidValue} {     set attrs [split \"_email_attachment_json\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Aggregator_AGGREGATE"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_d9667834_6f6d_407b_b895_dec3028ae6052_replacer {<backslash>} {<backslash><backslash>} {_FME_NO_OP_}")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_991362cd_fe68_4c33_a0e5_8a780522dead0_replacer { findText replaceText invalidValue} {     set attrs [split \"_email_attachment_json\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Aggregator_AGGREGATE"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_991362cd_fe68_4c33_a0e5_8a780522dead0_replacer {<backslash>} {<backslash><backslash>} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_6cf6c7c5_6ea2_4649_afd6_dbcfb2e4774f2_replacer { findText replaceText invalidValue} {     set attrs [split \"text_line_data\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_6cf6c7c5_6ea2_4649_afd6_dbcfb2e4774f2_replacer {<closecurly>} {@EvaluateExpression(FDIV,STRING_ENCODED,<comma><lf><at>Value<openparen>_email_attachment_json<closeparen><lf><closecurly>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer)} {_FME_NO_OP_}")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_29530ae5_b890_496a_b12a_38c67f9eb3950_replacer { findText replaceText invalidValue} {     set attrs [split \"text_line_data\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_29530ae5_b890_496a_b12a_38c67f9eb3950_replacer {<closecurly>} {@EvaluateExpression(FDIV,STRING_ENCODED,<comma><lf><at>Value<openparen>_email_attachment_json<closeparen><lf><closecurly>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer)} {_FME_NO_OP_}")
 
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT1418411244 Output Collector"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT1437082159 Output Collector"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(FMEServerEmailGenerator_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerEmailGenerator OUTPUT Output Renamer/Nuker"   INPUT FEATURE_TYPE FMEServerEmailGenerator_OUTPUT   OUTPUT FEATURE_TYPE FMEServerEmailGenerator_OUTPUT
 # -------------------------------------------------------------------------
@@ -5773,53 +5773,53 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRemover    INPUT  FEATURE_TYPE
 
 # -------------------------------------------------------------------------
 
-Tcl2 set AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitDelim [FME_DecodeText {<space>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitDelim]] }      {         set AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitWidths [split [regsub -all {s$} {<space>} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitWidths;            set source [FME_GetAttribute {"jpeg_exif_gpslatitude"}];            set attrNum 0;            set listName {_latlist};            set attrPos 0;            foreach width [set AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitDelim;            set delim [set AttributeSplitter_9ccc41f0_1b4d_429d_badb_2379acd264ee1_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"jpeg_exif_gpslatitude"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_latlist};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
+Tcl2 set AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitDelim [FME_DecodeText {<space>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitDelim]] }      {         set AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitWidths [split [regsub -all {s$} {<space>} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitWidths;            set source [FME_GetAttribute {"jpeg_exif_gpslatitude"}];            set attrNum 0;            set listName {_latlist};            set attrPos 0;            foreach width [set AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitDelim;            set delim [set AttributeSplitter_5c15d767_d688_4a39_b679_a95b483f5b370_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"jpeg_exif_gpslatitude"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_latlist};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter    INPUT  FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>    INPUT  FEATURE_TYPE AttributeRemover_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_OUTPUT         @Tcl2(AttributeSplitter_doSplit)
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeTrimmer_9a492a24_1aff_48fc_9b95_b30fc8dd25931_trimmer { trimChars} {    set attrs [split {_latlist{0},_latlist{1},_latlist{2}} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer    INPUT  FEATURE_TYPE AttributeSplitter_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_OUTPUT      @Tcl2("AttributeTrimmer_9a492a24_1aff_48fc_9b95_b30fc8dd25931_trimmer {<openparen><closeparen>} ")
+Tcl2 proc AttributeTrimmer_768a9e42_961e_4e07_afa8_909b7dfea4f10_trimmer { trimChars} {    set attrs [split {_latlist{0},_latlist{1},_latlist{2}} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer    INPUT  FEATURE_TYPE AttributeSplitter_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_OUTPUT      @Tcl2("AttributeTrimmer_768a9e42_961e_4e07_afa8_909b7dfea4f10_trimmer {<openparen><closeparen>} ")
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeCreator_2_1d4abd70_1e22_4f89_b15d_73edfbf318f21_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_2}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_2}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
+Tcl2 proc AttributeCreator_2_9b658f13_0e79_4468_9708_9b856e92dd180_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_2}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_2}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_2    INPUT  FEATURE_TYPE AttributeTrimmer_OUTPUT    OUTPUT FEATURE_TYPE AttributeCreator_2_OUTPUT         "@Tcl2( AttributeCreator_2_1d4abd70_1e22_4f89_b15d_73edfbf318f21_attrSetter {(latitude,<at>Evaluate<openparen><at>Value<openparen>_latlist<opencurly>0<closecurly><closeparen>+<openparen><at>Value<openparen>_latlist<opencurly>1<closecurly><closeparen><solidus>60.0<closeparen>+<openparen><at>Value<openparen>_latlist<opencurly>2<closecurly><closeparen><solidus>3600.0<closeparen><closeparen>)} )"
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_2    INPUT  FEATURE_TYPE AttributeTrimmer_OUTPUT    OUTPUT FEATURE_TYPE AttributeCreator_2_OUTPUT         "@Tcl2( AttributeCreator_2_9b658f13_0e79_4468_9708_9b856e92dd180_attrSetter {(latitude,<at>Evaluate<openparen><at>Value<openparen>_latlist<opencurly>0<closecurly><closeparen>+<openparen><at>Value<openparen>_latlist<opencurly>1<closecurly><closeparen><solidus>60.0<closeparen>+<openparen><at>Value<openparen>_latlist<opencurly>2<closecurly><closeparen><solidus>3600.0<closeparen><closeparen>)} )"
 
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TestFactory    FACTORY_NAME Tester    INPUT  FEATURE_TYPE AttributeCreator_2_OUTPUT    TEST "@EvaluateExpression(FDIV,STRING,<at>Value<openparen>jpeg_exif_gpslatituderef<closeparen>,Tester)" != "N"    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_PASSED    OUTPUT FAILED FEATURE_TYPE Tester_FAILED
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeCreator_4_0e7d008f_eb51_46f8_87bc_4b1b75fbebc91_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_4}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_4}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
+Tcl2 proc AttributeCreator_4_cfec2259_54fd_4f1f_a31d_93be56ca876e0_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_4}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_4}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_4    INPUT  FEATURE_TYPE Tester_PASSED    OUTPUT FEATURE_TYPE AttributeCreator_4_OUTPUT         "@Tcl2( AttributeCreator_4_0e7d008f_eb51_46f8_87bc_4b1b75fbebc91_attrSetter {(latitude,-<at>Value<openparen>latitude<closeparen>)} )"
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_4    INPUT  FEATURE_TYPE Tester_PASSED    OUTPUT FEATURE_TYPE AttributeCreator_4_OUTPUT         "@Tcl2( AttributeCreator_4_cfec2259_54fd_4f1f_a31d_93be56ca876e0_attrSetter {(latitude,-<at>Value<openparen>latitude<closeparen>)} )"
 
 # -------------------------------------------------------------------------
 
-Tcl2 set AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitDelim [FME_DecodeText {<space>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitDelim]] }      {         set AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitWidths [split [regsub -all {s$} {<space>} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitWidths;            set source [FME_GetAttribute {"jpeg_exif_gpslongitude"}];            set attrNum 0;            set listName {_longlist};            set attrPos 0;            foreach width [set AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitDelim;            set delim [set AttributeSplitter_2_eb867f24_e541_48c1_8787_bc8664738b451_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"jpeg_exif_gpslongitude"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_longlist};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
+Tcl2 set AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitDelim [FME_DecodeText {<space>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitDelim]] }      {         set AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitWidths [split [regsub -all {s$} {<space>} {}] s];         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitWidths;            set source [FME_GetAttribute {"jpeg_exif_gpslongitude"}];            set attrNum 0;            set listName {_longlist};            set attrPos 0;            foreach width [set AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc AttributeSplitter_2_doSplit {}         {            global AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitDelim;            set delim [set AttributeSplitter_2_54d7d711_c519_4e95_b470_839b35acad1c0_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"jpeg_exif_gpslongitude"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_longlist};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter_2    INPUT  FEATURE_TYPE Tester_FAILED    INPUT  FEATURE_TYPE AttributeCreator_4_OUTPUT    OUTPUT FEATURE_TYPE AttributeSplitter_2_OUTPUT         @Tcl2(AttributeSplitter_2_doSplit)
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeTrimmer_2_5c0d980c_081f_40e7_8f00_9d722faabee21_trimmer { trimChars} {    set attrs [split {_longlist{0},_longlist{1},_longlist{2}} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer_2    INPUT  FEATURE_TYPE AttributeSplitter_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_2_OUTPUT      @Tcl2("AttributeTrimmer_2_5c0d980c_081f_40e7_8f00_9d722faabee21_trimmer {<openparen><closeparen>} ")
+Tcl2 proc AttributeTrimmer_2_731ec84e_52e2_4aa7_9ca6_a44b77275fe90_trimmer { trimChars} {    set attrs [split {_longlist{0},_longlist{1},_longlist{2}} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer_2    INPUT  FEATURE_TYPE AttributeSplitter_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeTrimmer_2_OUTPUT      @Tcl2("AttributeTrimmer_2_731ec84e_52e2_4aa7_9ca6_a44b77275fe90_trimmer {<openparen><closeparen>} ")
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeCreator_3_2678b8ff_22c0_4085_b527_96beb9063f7d1_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_3}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_3}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
+Tcl2 proc AttributeCreator_3_cd845ea2_2fb4_4d96_8f26_acf78f3ef6c60_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_3}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_3}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_3    INPUT  FEATURE_TYPE AttributeTrimmer_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeCreator_3_OUTPUT         "@Tcl2( AttributeCreator_3_2678b8ff_22c0_4085_b527_96beb9063f7d1_attrSetter {(longitude,<at>Evaluate<openparen><at>Value<openparen>_longlist<opencurly>0<closecurly><closeparen>+<openparen><at>Value<openparen>_longlist<opencurly>1<closecurly><closeparen><solidus>60.0<closeparen>+<openparen><at>Value<openparen>_longlist<opencurly>2<closecurly><closeparen><solidus>3600.0<closeparen><closeparen>)} )"
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_3    INPUT  FEATURE_TYPE AttributeTrimmer_2_OUTPUT    OUTPUT FEATURE_TYPE AttributeCreator_3_OUTPUT         "@Tcl2( AttributeCreator_3_cd845ea2_2fb4_4d96_8f26_acf78f3ef6c60_attrSetter {(longitude,<at>Evaluate<openparen><at>Value<openparen>_longlist<opencurly>0<closecurly><closeparen>+<openparen><at>Value<openparen>_longlist<opencurly>1<closecurly><closeparen><solidus>60.0<closeparen>+<openparen><at>Value<openparen>_longlist<opencurly>2<closecurly><closeparen><solidus>3600.0<closeparen><closeparen>)} )"
 
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TestFactory    FACTORY_NAME Tester_2    INPUT  FEATURE_TYPE AttributeCreator_3_OUTPUT    TEST "@EvaluateExpression(FDIV,STRING,<at>Value<openparen>jpeg_exif_gpslongituderef<closeparen>,Tester_2)" = "W"    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE Tester_2_PASSED    OUTPUT FAILED FEATURE_TYPE Tester_2_FAILED
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeCreator_5_7deaed71_20bf_4be0_a3e8_f765042158201_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_5}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_5}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
+Tcl2 proc AttributeCreator_5_f1c4a21f_c230_48cc_992d_27e9ff2225a80_attrSetter { attrList } {     set attrList [string trim $attrList {()}];     set attrs [split $attrList {,} ];     foreach {attrName attrVal} $attrs {         if { [string match {*<at>*} $attrName] == 1 } {             set attrName [FME_Execute EvaluateExpression {STRING} $attrName {AttributeCreator_5}];         } else {             set attrName [FME_DecodeText $attrName];         };         if { [string match {*<at>*} $attrVal] == 1 } {             set attrVal [FME_Execute EvaluateExpression {STRING_ENCODED} $attrVal {AttributeCreator_5}];         };         FME_SetAttribute $attrName [FME_DecodeText $attrVal];     }; };
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_5    INPUT  FEATURE_TYPE Tester_2_PASSED    OUTPUT FEATURE_TYPE AttributeCreator_5_OUTPUT         "@Tcl2( AttributeCreator_5_7deaed71_20bf_4be0_a3e8_f765042158201_attrSetter {(longitude,-<at>Value<openparen>longitude<closeparen>)} )"
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeCreator_5    INPUT  FEATURE_TYPE Tester_2_PASSED    OUTPUT FEATURE_TYPE AttributeCreator_5_OUTPUT         "@Tcl2( AttributeCreator_5_f1c4a21f_c230_48cc_992d_27e9ff2225a80_attrSetter {(longitude,-<at>Value<openparen>longitude<closeparen>)} )"
 
 # -------------------------------------------------------------------------
 
@@ -5827,8 +5827,8 @@ FACTORY_DEF * TestFactory    FACTORY_NAME 2DPointReplacer    INPUT  FEATURE_TYPE
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc AttributeTrimmer_3_a0f547b2_5892_45bf_98c5_5f8dba97a4221_trimmer { trimChars} {    set attrs [split {jpeg_exif_gpsaltitude} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer_3    INPUT  FEATURE_TYPE 2DPointReplacer_POINT    OUTPUT FEATURE_TYPE AttributeTrimmer_3_OUTPUT      @Tcl2("AttributeTrimmer_3_a0f547b2_5892_45bf_98c5_5f8dba97a4221_trimmer {<openparen><closeparen>} ")
+Tcl2 proc AttributeTrimmer_3_6d754fea_0c1a_47be_b767_33a82d37167c0_trimmer { trimChars} {    set attrs [split {jpeg_exif_gpsaltitude} {,}];    set trimChars [FME_DecodeText $trimChars];    foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set length [string length $attrVal];       if {$length > 0} {          if {[string length $trimChars] == 0} {             set result [string trim $attrVal];         } else {             set result [string trim $attrVal $trimChars];         };          if {[string length $result] == 0 && {Yes} == {No}} {              if { {trim} == {trimleft}} {                set lastPos [expr $length - 1];                set result [string range $attrVal $lastPos $lastPos ];              } elseif { {trim} == {trimright}} {                set result [string range $attrVal 0 0];              } else {                set midPos [expr $length / 2];                set result [string range $attrVal $midPos $midPos];              };          };          FME_SetAttribute $attr $result;       };    }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeTrimmer_3    INPUT  FEATURE_TYPE 2DPointReplacer_POINT    OUTPUT FEATURE_TYPE AttributeTrimmer_3_OUTPUT      @Tcl2("AttributeTrimmer_3_6d754fea_0c1a_47be_b767_33a82d37167c0_trimmer {<openparen><closeparen>} ")
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeTrimmer_3 OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeTrimmer_3_OUTPUT   OUTPUT FEATURE_TYPE AttributeTrimmer_3_OUTPUT_0_GE3HTnNoSS8=   OUTPUT FEATURE_TYPE AttributeTrimmer_3_OUTPUT_1_GE3HTnNoSS8=
 # -------------------------------------------------------------------------
@@ -5843,32 +5843,19 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME HTTPFileUploader_Output_Logger    INPUT
 FACTORY_DEF * TeeFactory   FACTORY_NAME "HTTPFileUploader_Output LOGGED Output Nuker"   INPUT FEATURE_TYPE HTTPFileUploader_Output_LOGGED
 # -------------------------------------------------------------------------
 
-Tcl2 proc URLBuilder_4f8de9de_8954_45e4_9b50_d9ef4487ea611_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {url_of_photo}] [FME_DecodeText $attrText] }
-FACTORY_DEF * TeeFactory    FACTORY_NAME URLBuilder    INPUT  FEATURE_TYPE AttributeTrimmer_3_OUTPUT_0_GE3HTnNoSS8=    OUTPUT FEATURE_TYPE URLBuilder_OUTPUT        @Tcl2("URLBuilder_4f8de9de_8954_45e4_9b50_d9ef4487ea611_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,$(URL$encode)<solidus>fmerest<solidus>v2<solidus>resources<solidus>FME_SHAREDRESOURCE_DATA<solidus>filesys<solidus>Photos<solidus><at>Value<openparen>random_photo_folder<closeparen><solidus><at>Value<openparen>file_name_only<closeparen>?accept=contents<amp>token=$(TOKEN$encode)<amp>disposition=attachment,URLBuilder)} ")
+Tcl2 proc URLBuilder_04fcc931_9bca_4713_9214_f3f9582af0400_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {url_of_photo}] [FME_DecodeText $attrText] }
+FACTORY_DEF * TeeFactory    FACTORY_NAME URLBuilder    INPUT  FEATURE_TYPE AttributeTrimmer_3_OUTPUT_0_GE3HTnNoSS8=    OUTPUT FEATURE_TYPE URLBuilder_OUTPUT        @Tcl2("URLBuilder_04fcc931_9bca_4713_9214_f3f9582af0400_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,$(URL$encode)<solidus>fmerest<solidus>v2<solidus>resources<solidus>FME_SHAREDRESOURCE_DATA<solidus>filesys<solidus>Photos<solidus><at>Value<openparen>random_photo_folder<closeparen><solidus><at>Value<openparen>file_name_only<closeparen>?accept=contents<amp>token=$(TOKEN$encode)<amp>disposition=attachment,URLBuilder)} ")
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "URLBuilder OUTPUT Splitter"   INPUT FEATURE_TYPE URLBuilder_OUTPUT   OUTPUT FEATURE_TYPE URLBuilder_OUTPUT_0_zo95wprYKkY=   OUTPUT FEATURE_TYPE URLBuilder_OUTPUT_1_zo95wprYKkY=   OUTPUT FEATURE_TYPE URLBuilder_OUTPUT_2_zo95wprYKkY=
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRenamer_2    INPUT  FEATURE_TYPE URLBuilder_OUTPUT_2_zo95wprYKkY=    OUTPUT FEATURE_TYPE AttributeRenamer_2_OUTPUT         @RenameAttributes(ATTR_LIST_DEF_VAL, jpeg_exif_make,make,"",jpeg_exif_model,model,"",jpeg_exif_gpsaltitude,altitude,"",email_subject,subject,"")
-
-
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * VertexCreatorFactory    FACTORY_NAME VertexCreator    INPUT  FEATURE_TYPE AttributeRenamer_2_OUTPUT    MODE REPLACE    XVAL "@EvaluateExpression(FDIV,FLOAT,<at>Value<openparen>longitude<closeparen>,VertexCreator)"    YVAL "@EvaluateExpression(FDIV,FLOAT,<at>Value<openparen>latitude<closeparen>,VertexCreator)"    OUTPUT OUTPUT FEATURE_TYPE VertexCreator_OUTPUT
-
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME CoordinateSystemSetter    INPUT  FEATURE_TYPE VertexCreator_OUTPUT    OUTPUT FEATURE_TYPE CoordinateSystemSetter_OUTPUT         @CoordSys("LL84")
-
-# -------------------------------------------------------------------------
-
 Tcl2 proc TimeStamper_formatGetter { inVal } {    if { [string compare $inVal {FME Date/Time (^Y^m^d^H^M^S)}] == 0 } {       return {^Y^m^d^H^M^S};    } elseif { [string compare $inVal {FME Date (^Y^m^d)}] == 0} {       return {^Y^m^d};    } elseif { [string compare $inVal {FME Time (^H^M^S)}] == 0} {       return {^H^M^S};    } elseif { [string compare $inVal {XML Date (^Y-^m-^d)}] == 0} {       return {^Y-^m-^d};    } elseif { [string compare $inVal {XML DateTime (^Y-^m-^dT^H:^M:^S)}] == 0} {       return {^Y-^m-^dT^H:^M:^S};    } elseif { [string compare $inVal {XML Time (^H:^M:^S)}] == 0} {       return {^H:^M:^S};    } elseif { [string compare $inVal {Locale Date (^c)}] == 0} {       return {^c};    };    return $inVal; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME TimeStamper    INPUT  FEATURE_TYPE URLBuilder_OUTPUT_0_zo95wprYKkY=    OUTPUT FEATURE_TYPE TimeStamper_OUTPUT         @SupplyAttributes(ENCODED, datetime, @Timestamp(@Tcl2("TimeStamper_formatGetter {XML DateTime (^Y-^m-^dT^H:^M:^S)} ")))
+FACTORY_DEF * TeeFactory    FACTORY_NAME TimeStamper    INPUT  FEATURE_TYPE URLBuilder_OUTPUT_1_zo95wprYKkY=    OUTPUT FEATURE_TYPE TimeStamper_OUTPUT         @SupplyAttributes(ENCODED, datetime, @Timestamp(@Tcl2("TimeStamper_formatGetter {XML DateTime (^Y-^m-^dT^H:^M:^S)} ")))
 
 # -------------------------------------------------------------------------
 
-Tcl2 proc StringConcatenator_3_1bd937f3_75dd_4cd8_871d_b7890cd2c4ac1_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {email_content}] [FME_DecodeText $attrText] }
-FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_3    INPUT  FEATURE_TYPE TimeStamper_OUTPUT    OUTPUT FEATURE_TYPE StringConcatenator_3_OUTPUT        @Tcl2("StringConcatenator_3_1bd937f3_75dd_4cd8_871d_b7890cd2c4ac1_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<opencurly><lf><quote>report_type<quote>:<space><quote>photo<quote><comma><lf><quote>email_from<quote>:<space><quote><at>Value<openparen>email_from<closeparen><quote><comma><lf><quote>url<quote>:<space><quote><at>Value<openparen>url_of_photo<closeparen><quote><comma><lf><quote>latitude<quote>:<space><quote><at>Value<openparen>latitude<closeparen><quote><comma><lf><quote>longitude<quote>:<space><quote><at>Value<openparen>longitude<closeparen><quote><comma><lf><quote>datetime<quote>:<space><quote><at>Value<openparen>datetime<closeparen><quote><comma><lf><quote>subject<quote>:<space><quote><at>Value<openparen>email_subject<closeparen><quote><comma><lf><quote>content<quote>:<quote><at>Value<openparen>email_content<closeparen><quote><lf><closecurly>,StringConcatenator_3)} ")
+Tcl2 proc StringConcatenator_3_1fe215b4_7701_4bd4_bb86_d8fbe755d9ed0_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {email_content}] [FME_DecodeText $attrText] }
+FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_3    INPUT  FEATURE_TYPE TimeStamper_OUTPUT    OUTPUT FEATURE_TYPE StringConcatenator_3_OUTPUT        @Tcl2("StringConcatenator_3_1fe215b4_7701_4bd4_bb86_d8fbe755d9ed0_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<opencurly><lf><quote>report_type<quote>:<space><quote>photo<quote><comma><lf><quote>email_from<quote>:<space><quote><at>Value<openparen>email_from<closeparen><quote><comma><lf><quote>url<quote>:<space><quote><at>Value<openparen>url_of_photo<closeparen><quote><comma><lf><quote>latitude<quote>:<space><quote><at>Value<openparen>latitude<closeparen><quote><comma><lf><quote>longitude<quote>:<space><quote><at>Value<openparen>longitude<closeparen><quote><comma><lf><quote>datetime<quote>:<space><quote><at>Value<openparen>datetime<closeparen><quote><comma><lf><quote>subject<quote>:<space><quote><at>Value<openparen>email_subject<closeparen><quote><comma><lf><quote>content<quote>:<quote><at>Value<openparen>email_content<closeparen><quote><lf><closecurly>,StringConcatenator_3)} ")
 
 # -------------------------------------------------------------------------
 
@@ -5877,7 +5864,7 @@ FACTORY_DEF * ServerFactory    FACTORY_NAME FMEServerNotifier       INPUT  FEATU
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerNotifier OUTPUT Output Nuker"   INPUT FEATURE_TYPE FMEServerNotifier_OUTPUT
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerNotifier <REJECTED> Output Nuker"   INPUT FEATURE_TYPE FMEServerNotifier_<REJECTED>
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerEmailGenerator_2 INPUT Input Collector"   INPUT FEATURE_TYPE URLBuilder_OUTPUT_1_zo95wprYKkY=   OUTPUT FEATURE_TYPE FMEServerEmailGenerator_2_INPUT
+FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerEmailGenerator_2 INPUT Input Collector"   INPUT FEATURE_TYPE URLBuilder_OUTPUT_0_zo95wprYKkY=   OUTPUT FEATURE_TYPE FMEServerEmailGenerator_2_INPUT
 MACRO FMEServerEmailGenerator_WORKSPACE_NAME FMEServerEmailGenerator_2
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_XFORMER_NAME FMEServerEmailGenerator_2
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_TRANSFORMER_GROUP 
@@ -5888,16 +5875,16 @@ MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_cc
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_from 
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_replyto 
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_subject Your<space>request<space>succeeded!
-MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_subscriber_content Thanks<space>for<space>submitting<space>your<space>photo<space>to<space>the<space>demo<space>system!<lt>br<gt><lf><lf><lt>p<gt>Your<space>photo<space>has<space>been<space>added<space>to<space>the<space>catalog.<space>To<space>see<space>the<space>photo<space>on<space>a<space>map<space>go<space><lt>a<space>href=<quote>$(PHOTO_MAP_URL)<quote><gt>here<lt><solidus>a<gt>.<space>A<space>red<space>pin<space>indicates<space>a<space>location<space>of<space>a<space>photo.<space>Click<space>on<space>that<space>to<space>see<space>a<space>thumbnail<space>and<space>a<space>link<space>to<space>the<space>complete<space>photo.<lt><solidus>p<gt>
+MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_subscriber_content Thanks<space>for<space>submitting<space>your<space>photo<space>to<space>the<space>demo<space>system!<lt>br<gt><lf><lf><lt>p<gt>Your<space>photo<space>has<space>been<space>added<space>to<space>the<space>catalog.<space>To<space>see<space>the<space>photo<space>on<space>a<space>map<space>go<space><lt>a<space>href=<quote>$(PHOTO_MAP_URL)<amp>lat=<at>Value<openparen>latitude<closeparen><amp>lng=<at>Value<openparen>longitude<closeparen><amp>z=13<quote><gt>here<lt><solidus>a<gt>.<space>A<space>red<space>pin<space>indicates<space>a<space>location<space>of<space>a<space>photo.<space>Click<space>on<space>that<space>to<space>see<space>a<space>thumbnail<space>and<space>a<space>link<space>to<space>the<space>complete<space>photo.<lt><solidus>p<gt>
 MACRO $(FMEServerEmailGenerator_WORKSPACE_NAME)_email_attachment_paths 
 DEFAULT_MACRO FMEServerEmailGenerator_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(FMEServerEmailGenerator_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(FMEServerEmailGenerator_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT1418411244 Input Splitter"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT1437082159 Input Splitter"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"
 # -------------------------------------------------------------------------
 
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_23aa19c8_28f2_4163_8cca_37828481389b3_createDomain { in_domainName } {    set domainName $in_domainName;    if { {Local} == {Local} }    {       set xFormName [FME_EncodeText {$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_eee5b6c8_f3aa_45ce_a03f_64c8246efcc61_createDomain { in_domainName } {    set domainName $in_domainName;    if { {Local} == {Local} }    {       set xFormName [FME_EncodeText {$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_OUTPUT"         "_email_feature_id" @Count(fme_encoded,@Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_23aa19c8_28f2_4163_8cca_37828481389b3_createDomain {counter}"), "0")
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_INPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_OUTPUT"         "_email_feature_id" @Count(fme_encoded,@Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_Counter_eee5b6c8_f3aa_45ce_a03f_64c8246efcc61_createDomain {counter}"), "0")
 
 # -------------------------------------------------------------------------
 
@@ -5913,7 +5900,7 @@ FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME $(FMEServerEmailGenerator_WORKSPA
 FACTORY_DEF * TestFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_JSONTemplater_OUTPUT"    TEST _email_attachment_paths ATTRIBUTE_IS_EMPTY <Unused> ENCODED    BOOLEAN_OPERATOR OR    OUTPUT PASSED FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"    OUTPUT FAILED FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_FAILED"
 # -------------------------------------------------------------------------
 
-Tcl2 set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitDelim [FME_DecodeText {<comma>}];      if { [regexp {^([1-9][0-9]*s)+$} [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitDelim]] }      {         set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitWidths [split [regsub -all {s$} {<comma>} {}] s];         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitWidths;            set source [FME_GetAttribute {"_email_attachment_paths"}];            set attrNum 0;            set listName {_email_attachment_path_list};            set attrPos 0;            foreach width [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitDelim;            set delim [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_c59bea5d_d216_4353_8ff8_f8abb09fb7583_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"_email_attachment_paths"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_email_attachment_path_list};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
+Tcl2 set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitDelim [FME_DecodeText {<comma>}];      if { [regexp {^([1-9][0-9]*s)+$} [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitDelim]] }      {         set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitWidths [split [regsub -all {s$} {<comma>} {}] s];         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitWidths;            set source [FME_GetAttribute {"_email_attachment_paths"}];            set attrNum 0;            set listName {_email_attachment_path_list};            set attrPos 0;            foreach width [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrPos $width;               incr attrNum;            };         };      }      else      {         proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit {}         {            global $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitDelim;            set delim [set $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_9d9872ec_5523_4559_9c65_b003ac02220e1_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute {"_email_attachment_paths"}];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              set part [string range $source $startIndex [expr $nextIndex-1]];              if { $keepEmptyParts || $part != \"\" } {                 lappend bits $part;              };              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            set lastPart [string range $source $startIndex end];            if { $keepEmptyParts || $lastPart != \"\" } { lappend bits $lastPart };            set listName {_email_attachment_path_list};            set attrNum 0;            foreach bit $bits            {               FME_SetAttribute "$listName{$attrNum}" [string trim $bit];               incr attrNum;            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_FAILED"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_OUTPUT"         @Tcl2($(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_doSplit)
 
 # -------------------------------------------------------------------------
@@ -5921,8 +5908,8 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAM
 FACTORY_DEF * ElementFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_AttributeSplitter_OUTPUT"    LIST_NAME "_email_attachment_path_list{}"    ELEMENT_NUMBER_FIELD "_element_index"    CLONE_GEOMETRY    MODE LEAN    OUTPUT ELEMENT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"         @RemoveAttributes(ElementFactory.baseCloned)
 # -------------------------------------------------------------------------
 
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_54db4f0f_eb2e_40fe_a303_0bb8a0123a303_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {_email_attachment_json}] [FME_DecodeText $attrText] }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_OUTPUT"        @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_54db4f0f_eb2e_40fe_a303_0bb8a0123a303_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<quote>email_attachment<opencurly><at>Value<openparen>_element_index<closeparen><closecurly><quote>:<space><quote><at>Value<openparen>_email_attachment_path_list<closeparen><quote>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator)} ")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_ffe7907f_c7e9_4f2f_9e9d_4385cc6ff2c91_doSetAttr {attrText} {    FME_SetAttribute [FME_DecodeText {_email_attachment_json}] [FME_DecodeText $attrText] }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_ListExploder_LIST_FOUND"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_OUTPUT"        @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator_ffe7907f_c7e9_4f2f_9e9d_4385cc6ff2c91_doSetAttr {@EvaluateExpression(FDIV,STRING_ENCODED,<quote>email_attachment<opencurly><at>Value<openparen>_element_index<closeparen><closecurly><quote>:<space><quote><at>Value<openparen>_email_attachment_path_list<closeparen><quote>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringConcatenator)} ")
 
 # -------------------------------------------------------------------------
 
@@ -5934,17 +5921,17 @@ FACTORY_DEF * AggregateFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPA
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_d9667834_6f6d_407b_b895_dec3028ae6053_replacer { findText replaceText invalidValue} {     set attrs [split \"_email_attachment_json\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Aggregator_AGGREGATE"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_d9667834_6f6d_407b_b895_dec3028ae6053_replacer {<backslash>} {<backslash><backslash>} {_FME_NO_OP_}")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_991362cd_fe68_4c33_a0e5_8a780522dead1_replacer { findText replaceText invalidValue} {     set attrs [split \"_email_attachment_json\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Aggregator_AGGREGATE"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_991362cd_fe68_4c33_a0e5_8a780522dead1_replacer {<backslash>} {<backslash><backslash>} {_FME_NO_OP_}")
 
 # -------------------------------------------------------------------------
 
 MACRO casemac
 INCLUDE [ if { {NO} == {NO} } { puts {MACRO casemac -nocase}} ]
-Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_6cf6c7c5_6ea2_4649_afd6_dbcfb2e4774f3_replacer { findText replaceText invalidValue} {     set attrs [split \"text_line_data\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
-FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_6cf6c7c5_6ea2_4649_afd6_dbcfb2e4774f3_replacer {<closecurly>} {@EvaluateExpression(FDIV,STRING_ENCODED,<comma><lf><at>Value<openparen>_email_attachment_json<closeparen><lf><closecurly>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer)} {_FME_NO_OP_}")
+Tcl2 proc $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_29530ae5_b890_496a_b12a_38c67f9eb3951_replacer { findText replaceText invalidValue} {     set attrs [split \"text_line_data\" {,}];     set findValue [FME_DecodeText $findText];     set replaceValue [FME_DecodeText $replaceText];     foreach attr $attrs {       set attrVal [FME_GetAttribute $attr];       set noMatch true;       if {{NO} == {YES}} {         set newAttrVal [regsub $(casemac) -all -- $findValue $attrVal $replaceValue];       } else {         set newAttrVal [string map $(casemac) [list $findValue $replaceValue] $attrVal];       };       if { $newAttrVal ne $attrVal } {         set noMatch false;         FME_SetAttribute $attr $newAttrVal;       };       if {$noMatch} {          if { $invalidValue == {FME_NULL_VALUE} } {             FME_SetAttributeNull $attr;          } elseif { $invalidValue != {_FME_NO_OP_} }  {             FME_SetAttribute $attr [FME_DecodeText $invalidValue];          };       };     }; }
+FACTORY_DEF * TeeFactory    FACTORY_NAME $(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer    INPUT  FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_2_OUTPUT"    OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"         @Tcl2("$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_29530ae5_b890_496a_b12a_38c67f9eb3951_replacer {<closecurly>} {@EvaluateExpression(FDIV,STRING_ENCODED,<comma><lf><at>Value<openparen>_email_attachment_json<closeparen><lf><closecurly>,$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer)} {_FME_NO_OP_}")
 
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT1418411244 Output Collector"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT1437082159 Output Collector"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_Tester_PASSED"   INPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_StringReplacer_OUTPUT"   OUTPUT FEATURE_TYPE "$(FMEServerEmailGenerator_WORKSPACE_NAME)_OUTPUT"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(FMEServerEmailGenerator_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerEmailGenerator_2 OUTPUT Output Renamer/Nuker"   INPUT FEATURE_TYPE FMEServerEmailGenerator_2_OUTPUT   OUTPUT FEATURE_TYPE FMEServerEmailGenerator_2_OUTPUT
 # -------------------------------------------------------------------------
@@ -5953,6 +5940,19 @@ FACTORY_DEF * ServerFactory    FACTORY_NAME FMEServerNotifier_2       INPUT  FEA
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerNotifier_2 OUTPUT Output Nuker"   INPUT FEATURE_TYPE FMEServerNotifier_2_OUTPUT
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FMEServerNotifier_2 <REJECTED> Output Nuker"   INPUT FEATURE_TYPE FMEServerNotifier_2_<REJECTED>
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeRenamer_2    INPUT  FEATURE_TYPE URLBuilder_OUTPUT_2_zo95wprYKkY=    OUTPUT FEATURE_TYPE AttributeRenamer_2_OUTPUT         @RenameAttributes(ATTR_LIST_DEF_VAL, jpeg_exif_make,make,"",jpeg_exif_model,model,"",jpeg_exif_gpsaltitude,altitude,"",email_subject,subject,"")
+
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * VertexCreatorFactory    FACTORY_NAME VertexCreator    INPUT  FEATURE_TYPE AttributeRenamer_2_OUTPUT    MODE REPLACE    XVAL "@EvaluateExpression(FDIV,FLOAT,<at>Value<openparen>longitude<closeparen>,VertexCreator)"    YVAL "@EvaluateExpression(FDIV,FLOAT,<at>Value<openparen>latitude<closeparen>,VertexCreator)"    OUTPUT OUTPUT FEATURE_TYPE VertexCreator_OUTPUT
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME CoordinateSystemSetter    INPUT  FEATURE_TYPE VertexCreator_OUTPUT    OUTPUT FEATURE_TYPE CoordinateSystemSetter_OUTPUT         @CoordSys("LL84")
+
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC CoordinateSystemSetter_OUTPUT TO GOOGLEFUSIONTABLES __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>PhotoOnMapPhotoLibrary<closeparen> GEOMETRY   OUTPUT ROUTED FEATURE_TYPE * @FeatureType(ENCODED,@Value(__wb_out_feat_type__)) @RemoveAttributes(__wb_out_feat_type__)   OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
